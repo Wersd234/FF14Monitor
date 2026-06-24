@@ -1,0 +1,138 @@
+﻿时间,Boss技能/文本,备注,类型,原始伤害,当前安排,综合减免,实际伤害,行类型,高亮
+00:15,暴风破,,AOE (Raid),96239,,0%,96239,normal,False
+00:17,罪雷,,AOE (Raid),92807,,0%,92807,normal,False
+00:24,连锁爆印铭刻,,Single (TB),645337,,0%,645337,normal,False
+00:41,爆印,,Cleave (2 Targets),274346,,0%,274346,normal,False
+00:50,罪暴雷,,AOE (Raid),126516,,0%,126516,normal,False
+00:56,暴风破,,AOE (Raid),221573,,0%,221573,normal,False
+00:59,罪炎,,AOE (Raid),88381,,0%,88381,normal,False
+01:19,罪炎,,AOE (Raid),121662,,0%,121662,normal,False
+01:26,光焰圆光,,AOE (Raid),140830,,0%,140830,normal,False
+01:29,[DoT] Bleeding,,DoT (Tick),87313,,0%,87313,normal,False
+01:32,[DoT] Bleeding,,DoT (Tick),65875,,0%,65875,normal,False
+01:35,[DoT] Bleeding,,DoT (Tick),85932,,0%,85932,normal,False
+01:38,[DoT] Bleeding,,DoT (Tick),88708,,0%,88708,normal,False
+01:41,[DoT] Bleeding,,DoT (Tick),86824,,0%,86824,normal,False
+01:46,罪冰焰,,AOE (Raid),123150,,0%,123150,normal,False
+01:50,罪冰焰,,AOE (Raid),119221,,0%,119221,normal,False
+01:54,罪冰焰,,Cleave (4 Targets),115978,,0%,115978,normal,False
+02:02,光焰圆光,,AOE (Raid),145962,,0%,145962,normal,False
+02:03,[DoT] Bleeding,,DoT (Tick),87106,,0%,87106,normal,False
+02:05,[DoT] Bleeding,,DoT (Tick),91106,,0%,91106,normal,False
+02:08,[DoT] Bleeding,,DoT (Tick),93514,,0%,93514,normal,False
+02:10,连锁爆印铭刻,,Single (TB),692458,,0%,692458,normal,False
+02:11,[DoT] Bleeding,,DoT (Tick),90923,,0%,90923,normal,False
+02:14,[DoT] Bleeding,,DoT (Tick),88687,,0%,88687,normal,False
+02:17,[DoT] Bleeding,,DoT (Tick),86167,,0%,86167,normal,False
+02:26,爆炸,,AOE (Raid),44239,,0%,44239,normal,False
+02:27,爆印,,Cleave (2 Targets),284912,,0%,284912,normal,False
+03:15,钻石星尘,,AOE (Raid),202072,,0%,202072,normal,False
+03:25,光之海啸,,Cleave (4 Targets),122539,,0%,122539,normal,False
+03:26,冰石,,Cleave (4 Targets),111168,,0%,111168,normal,False
+03:32,天降一击,,AOE (Raid),29369,,0%,29369,normal,False
+03:35,罪神圣,,AOE (Raid),37470,,0%,37470,normal,False
+03:39,罪神圣,,AOE (Raid),186453,,0%,186453,normal,False
+04:03,神圣射线,,AOE (Raid),192176,,0%,192176,normal,False
+04:27,光之海啸,,AOE (Raid),120239,,0%,120239,normal,False
+04:37,光之海啸,,AOE (Raid),121693,,0%,121693,normal,False
+04:42,强放逐,,AOE (Raid),94026,,0%,94026,normal,False
+04:52,光之失控,,AOE (Raid),197949,,0%,197949,normal,False
+05:03,光流侵蚀,,Cleave (2 Targets),50184,,0%,50184,normal,False
+05:03,侵蚀光,,AOE (Raid),45969,,0%,45969,normal,False
+05:09,光爆,,AOE (Raid),130183,,0%,130183,normal,False
+05:18,侵蚀光,,Cleave (4 Targets),44837,,0%,44837,normal,False
+05:21,分裂强放逐,,AOE (Raid),91412,,0%,91412,normal,False
+05:30,光之海啸,,AOE (Raid),118606,,0%,118606,normal,False
+05:49,绝对零度,,AOE (Raid),199837,,0%,199837,normal,False
+05:53,[DoT] Deep Freeze,,DoT (Tick),58731,,0%,58731,normal,False
+05:56,[DoT] Deep Freeze,,DoT (Tick),10648,,0%,10648,normal,False
+06:31,严冬射线,,Single (TB),28596,,0%,28596,normal,False
+07:07,融合光波,,AOE (Raid),177213,,0%,177213,normal,False
+07:39,时间压缩·绝,,AOE (Raid),195468,,0%,195468,normal,False
+07:51,黑暗爆炎,,Cleave (2 Targets),145169,,0%,145169,normal,False
+07:52,黑暗神圣,,AOE (Raid),111215,,0%,111215,normal,False
+07:56,罪熔毁,,Cleave (3 Targets),125519,,0%,125519,normal,False
+08:01,黑暗爆炎,,Cleave (2 Targets),138488,,0%,138488,normal,False
+08:01,黑暗神圣,,AOE (Raid),113999,,0%,113999,normal,False
+08:06,罪熔毁,,Cleave (3 Targets),113695,,0%,113695,normal,False
+08:11,黑暗爆炎,,Cleave (3 Targets),147408,,0%,147408,normal,False
+08:11,黑暗神圣,,AOE (Raid),119840,,0%,119840,normal,False
+08:17,罪熔毁,,Cleave (2 Targets),116353,,0%,116353,normal,False
+08:23,暗炎喷发,,Cleave (4 Targets),70675,,0%,70675,normal,False
+08:23,黑暗狂水,,Cleave (4 Targets),70963,,0%,70963,normal,False
+08:27,破盾一击,,AOE (Raid),119692,,0%,119692,normal,False
+08:35,脉冲星震波,,AOE (Raid),162527,,0%,162527,normal,False
+08:44,黑色光环,,Single (TB),727177,,0%,727177,normal,False
+09:12,黑暗狂水,,AOE (Raid),75458,,0%,75458,normal,False
+09:14,碎灵一击,,Single (TB),69554,,0%,69554,normal,False
+09:25,暗炎喷发,,AOE (Raid),78716,,0%,78716,normal,False
+09:31,黑暗狂水,,AOE (Raid),76153,,0%,76153,normal,False
+09:33,暗夜舞蹈,,Single (TB),699215,,0%,699215,normal,False
+09:40,黑暗狂水,,AOE (Raid),92967,,0%,92967,normal,False
+09:45,脉冲星震波,,AOE (Raid),165470,,0%,165470,normal,False
+09:59,记忆终结,,AOE (Raid),197582,,0%,197582,normal,False
+10:32,忘却的此岸,,AOE (Raid),63643,,0%,63643,normal,False
+10:42,光与暗的龙诗,,AOE (Raid),200189,,0%,200189,normal,False
+10:53,侵蚀光,,Cleave (4 Targets),44558,,0%,44558,normal,False
+10:54,光之波动,,Cleave (4 Targets),121001,,0%,121001,normal,False
+10:56,碎灵一击,,Single (TB),43732,,0%,43732,normal,False
+11:01,黑暗狂水,,AOE (Raid),76524,,0%,76524,normal,False
+11:04,真夜舞蹈,,Single (TB),288657,,0%,288657,normal,False
+11:08,真夜舞蹈,,Single (TB),8215775,,0%,8215775,normal,False
+11:11,忘却的此岸,,AOE (Raid),60057,,0%,60057,normal,False
+11:18,死亡轮回,,AOE (Raid),180901,,0%,180901,normal,False
+11:21,死亡轮回,,AOE (Raid),173640,,0%,173640,normal,False
+11:29,无尽顿悟,,AOE (Raid),177250,,0%,177250,normal,False
+11:43,时间结晶,,AOE (Raid),196366,,0%,196366,normal,False
+11:50,忘却的此岸,,AOE (Raid),61861,,0%,61861,normal,False
+11:56,黑暗狂水,,Cleave (4 Targets),79792,,0%,79792,normal,False
+11:58,圣龙气息,,Cleave (2 Targets),101626,,0%,101626,normal,False
+11:58,黑暗暴风,,Cleave (4 Targets),26198,,0%,26198,normal,False
+11:58,暗炎喷发,,Single (TB),75347,,0%,75347,normal,False
+12:01,黑暗神圣,,AOE (Raid),105142,,0%,105142,normal,False
+12:02,圣龙气息,,Cleave (2 Targets),109722,,0%,109722,normal,False
+12:09,光之巨浪,,Cleave (2 Targets),139182,,0%,139182,normal,False
+12:15,寂灭,,AOE (Raid),58470,,0%,58470,normal,False
+12:22,碎灵一击,,Single (TB),43734,,0%,43734,normal,False
+12:26,神圣之翼,,Single (TB),109378,,0%,109378,normal,False
+12:31,神圣之翼,,Cleave (3 Targets),202190,,0%,202190,normal,False
+12:41,死亡轮回,,AOE (Raid),179100,,0%,179100,normal,False
+12:44,死亡轮回,,AOE (Raid),166227,,0%,166227,normal,False
+12:48,忘却的此岸,,AOE (Raid),62237,,0%,62237,normal,False
+12:51,无尽顿悟,,Single (TB),856231,,0%,856231,normal,False
+14:22,光尘之剑,,AOE (Raid),200539,,0%,200539,normal,False
+14:45,暗之波动,,Single (TB),136662,,0%,136662,normal,False
+14:45,光之波动,,Single (TB),141146,,0%,141146,normal,False
+14:49,死亡轮回,,AOE (Raid),2262042,,0%,2262042,normal,False
+15:07,爆炸,,Cleave (2 Targets),47724,,0%,47724,normal,False
+15:07,光与暗的孤翼,,Cleave (2 Targets),468655,,0%,468655,normal,False
+15:11,爆炸,,Cleave (2 Targets),44627,,0%,44627,normal,False
+15:11,光与暗的孤翼,,Cleave (2 Targets),501247,,0%,501247,normal,False
+15:14,爆炸,,Cleave (2 Targets),44628,,0%,44628,normal,False
+15:29,光之波涛,,Cleave (4 Targets),107946,,0%,107946,normal,False
+15:29,暗之波涛,,Cleave (4 Targets),101934,,0%,101934,normal,False
+15:33,暗之波涛,,Cleave (4 Targets),112711,,0%,112711,normal,False
+15:33,光之波涛,,Cleave (4 Targets),115823,,0%,115823,normal,False
+15:38,光之波涛,,Cleave (4 Targets),113152,,0%,113152,normal,False
+15:38,暗之波涛,,Cleave (4 Targets),113004,,0%,113004,normal,False
+15:43,暗之波涛,,Cleave (4 Targets),120476,,0%,120476,normal,False
+15:43,光之波涛,,Cleave (4 Targets),109085,,0%,109085,normal,False
+16:03,潘多拉魔盒,,AOE (Raid),827631,,0%,827631,normal,False
+16:15,光尘之剑,,AOE (Raid),197214,,0%,197214,normal,False
+16:42,死亡轮回,,AOE (Raid),202716,,0%,202716,normal,False
+17:04,爆炸,,Cleave (2 Targets),46093,,0%,46093,normal,False
+17:05,光与暗的孤翼,,Single (TB),452452,,0%,452452,normal,False
+17:08,爆炸,,Cleave (2 Targets),44934,,0%,44934,normal,False
+17:09,光与暗的孤翼,,Single (TB),462665,,0%,462665,normal,False
+17:12,爆炸,,Cleave (2 Targets),46566,,0%,46566,normal,False
+17:21,光之波涛,,Cleave (4 Targets),115080,,0%,115080,normal,False
+17:21,暗之波涛,,Cleave (4 Targets),112565,,0%,112565,normal,False
+17:26,光之波涛,,Cleave (4 Targets),114565,,0%,114565,normal,False
+17:26,暗之波涛,,Cleave (4 Targets),111793,,0%,111793,normal,False
+17:30,光之波涛,,Cleave (4 Targets),120524,,0%,120524,normal,False
+17:30,暗之波涛,,Cleave (4 Targets),114921,,0%,114921,normal,False
+17:35,光之波涛,,Cleave (4 Targets),113098,,0%,113098,normal,False
+17:35,暗之波涛,,Cleave (4 Targets),119134,,0%,119134,normal,False
+17:46,光尘之剑,,AOE (Raid),195935,,0%,195935,normal,False
+18:12,死亡轮回,,AOE (Raid),203029,,0%,203029,normal,False
+00:00,123,,,,,,,remark,False

@@ -1,5 +1,6 @@
 import json
 import csv
+import os
 from PyQt6.QtCore import QObject, pyqtSignal, QUrl
 from PyQt6.QtWebSockets import QWebSocket
 from src.models.skills_db import SKILL_DB
@@ -37,7 +38,6 @@ class PlannerController(QObject):
         self.broadcast_state()
 
     def set_potency_multiplier(self, multiplier: float):
-        """【新增】：动态设置恢复力换算系数"""
         self.potency_multiplier = multiplier
         self.recalculate_all()
         self.broadcast_state()
@@ -74,7 +74,7 @@ class PlannerController(QObject):
                 "type": "update",
                 "data": self.timeline_data,
                 "hp": self.baseline_hp,
-                "potency_mult": self.potency_multiplier  # 联机同步恢复力系数
+                "potency_mult": self.potency_multiplier
             }
             self.ws.sendTextMessage(json.dumps(payload))
 
@@ -88,9 +88,14 @@ class PlannerController(QObject):
                 return
 
             if msg_type in ["init", "update"]:
+                # 防回音壁卡顿死循环：如果云端和本地数据一致，直接拦截！
+                if json.dumps(payload.get("data", [])) == json.dumps(self.timeline_data):
+                    return
+
                 if "hp" in payload: self.baseline_hp = payload["hp"]
                 if "potency_mult" in payload: self.potency_multiplier = payload["potency_mult"]
                 self.timeline_data = payload.get("data", [])
+
                 self.recalculate_all()
         except:
             pass
@@ -158,7 +163,6 @@ class PlannerController(QObject):
                 if (current_time - prev_time) < skill_cd:
                     wait_time = int(skill_cd - (current_time - prev_time))
                     self.error_occurred.emit("⛔ 技能冷却冲突！", f"【{skill_name}】冷却还剩 {wait_time} 秒！")
-                    self.data_updated.emit(self.timeline_data)
                     return
 
         self.timeline_data[row_idx].setdefault("mits", []).append(skill_name)
@@ -178,128 +182,195 @@ class PlannerController(QObject):
         self.recalculate_all()
         self.broadcast_state()
 
+    # ===============================================
+    # 🛡️ 绝境战级：真实护盾碎裂引擎与 HOT 跳数计算
+    # ===============================================
     def recalculate_all(self):
-        for row_idx, row_data in enumerate(self.timeline_data):
-            row_type = row_data.get("row_type", "normal")
-            if row_type != "normal":
-                continue
+        try:
+            active_shields = []
+            active_buffs = []
 
-            raw_dmg = int(row_data.get("raw_dmg", 0))
-            current_time = row_data.get("time", 0)
+            for row_idx, row_data in enumerate(self.timeline_data):
+                row_type = row_data.get("row_type", "normal")
+                if row_type != "normal":
+                    continue
 
-            explicit_mits = row_data.get("mits", [])
-            inherited_mits = []
-            total_heal_potency = 0
+                current_time = float(row_data.get("time", 0) or 0)
+                raw_dmg = float(row_data.get("raw_dmg", 0) or 0)
 
-            for i in range(row_idx + 1):
-                if self.timeline_data[i].get("row_type", "normal") != "normal": continue
+                # 1. 清理过期或被打碎的护盾
+                active_shields = [s for s in active_shields if s["expire"] > current_time and s["remain_hp"] > 0]
+                active_buffs = [b for b in active_buffs if b["expire"] > current_time]
 
-                prev_time = self.timeline_data[i].get("time", 0)
-                time_diff = current_time - prev_time
+                row_mits = row_data.get("mits", [])
+                hot_ticks = 0
 
-                for mit in self.timeline_data[i].get("mits", []):
-                    skill_info = SKILL_DB.get(mit, {})
-                    duration = float(skill_info.get("duration", 0))
-                    base_pot = int(skill_info.get("potency", 0))
-                    hot_pot = int(skill_info.get("hot_potency", 0))
+                # 2. 载入本行释放的技能
+                for mit_name in row_mits:
+                    info = SKILL_DB.get(mit_name, {})
+                    dur = float(info.get("duration", 15) or 15)
+                    expire_time = current_time + dur
 
-                    if time_diff == 0:
-                        total_heal_potency += base_pot
-                    elif 0 < time_diff <= duration:
-                        ticks = int(time_diff // 3)
-                        total_heal_potency += (ticks * hot_pot)
-                        tick_str = f" (已跳 {ticks} 次)" if hot_pot > 0 else ""
-                        inherited_mits.append(f"{mit}{tick_str}")
+                    active_buffs.append({
+                        "skill": mit_name,
+                        "expire": expire_time,
+                        "info": info
+                    })
 
-            all_active = explicit_mits + [m.split(" (")[0] for m in inherited_mits]
+                    # HOT 计算 (3秒一跳)
+                    heal_pot = float(info.get("heal_potency", 0) or 0)
+                    if heal_pot > 0 and dur > 0:
+                        hot_ticks += int(dur / 3)
 
-            mit_ratio = 1.0
-            total_shield_percent = 0.0
-            total_shield_potency = 0.0
-            mechanic_tags = []
+                    # 护盾计算
+                    shield_hp = 0.0
+                    shield_pct = float(info.get("shield_pct", 0) or 0)
+                    if shield_pct > 0:
+                        shield_hp += float(self.baseline_hp) * (shield_pct / 100.0)
 
-            for mit_name in all_active:
-                skill = SKILL_DB.get(mit_name, {})
-                stype = skill.get("type", "")
+                    shield_potency = float(info.get("shield_potency", 0) or 0)
+                    if shield_potency > 0:
+                        shield_hp += shield_potency * float(self.potency_multiplier)
 
-                sval = float(skill.get("value", 0)) if skill.get("value") else 0.0
-                shp = float(skill.get("shield", 0)) if skill.get("shield") else 0.0
-                spot = float(skill.get("shield_potency", 0)) if skill.get("shield_potency") else 0.0
+                    if shield_hp > 0:
+                        active_shields.append({
+                            "skill": mit_name,
+                            "expire": expire_time,
+                            "remain_hp": int(shield_hp)
+                        })
 
-                if stype in ["mitigation", "invuln"] and sval > 0:
-                    mit_ratio *= (1.0 - sval)
-                elif stype == "shield":
-                    total_shield_percent += shp
-                    total_shield_potency += spot
+                # 3. 统计减伤池
+                mit_multiplier = 1.0
+                calc_inherited = []
 
-                if "宏观宇宙" in mit_name:
-                    mechanic_tags.append("🌌 大宇宙")
-                elif "礼仪之铃" in mit_name:
-                    mechanic_tags.append("🔔 铃铛")
+                for buff in active_buffs:
+                    mit_val = float(buff["info"].get("mitigation", 0) or 0)
+                    if mit_val > 0:
+                        mit_multiplier *= (1.0 - (mit_val / 100.0))
 
-            shield_val_from_hp = int(self.baseline_hp * (total_shield_percent / 100.0))
+                    if buff["skill"] not in row_mits:
+                        remain_time = int(buff["expire"] - current_time)
+                        calc_inherited.append(f"{buff['skill']} ({remain_time}s)")
 
-            # 【核心修改】：使用动态的 potency_multiplier 进行计算！
-            shield_val_from_potency = int(total_shield_potency * self.potency_multiplier)
-            total_shield_val = shield_val_from_hp + shield_val_from_potency
+                total_mit_pct = (1.0 - mit_multiplier) * 100
+                row_data["calc_mit_ratio_str"] = f"{total_mit_pct:.1f}%"
+                row_data["calc_inherited"] = calc_inherited
 
-            actual_dmg = int(raw_dmg * mit_ratio) - total_shield_val
-            actual_dmg = max(0, actual_dmg)
+                # 4. 真实护盾扣血判定
+                mitigated_dmg = raw_dmg * mit_multiplier
+                dmg_to_absorb = mitigated_dmg
+                total_shield_consumed = 0
 
-            row_data["calc_inherited"] = inherited_mits
-            row_data["calc_mit_ratio_str"] = f"{(1.0 - mit_ratio) * 100:.1f}%"
-            row_data["calc_total_shield_val"] = total_shield_val
-            row_data["calc_total_shield_pct"] = int(total_shield_percent)
-            row_data["calc_total_shield_potency"] = int(total_shield_potency)
-            row_data["calc_total_heal_potency"] = total_heal_potency
-            row_data["calc_mechanic_tags"] = mechanic_tags
-            row_data["calc_actual_dmg"] = actual_dmg
+                if dmg_to_absorb > 0:
+                    for shield in active_shields:
+                        if shield["remain_hp"] > 0 and dmg_to_absorb > 0:
+                            absorb = min(shield["remain_hp"], dmg_to_absorb)
+                            shield["remain_hp"] -= absorb
+                            dmg_to_absorb -= absorb
+                            total_shield_consumed += absorb
 
-        self.broadcast_state()
-        self.data_updated.emit(self.timeline_data)
+                actual_dmg = max(0, mitigated_dmg - total_shield_consumed)
 
+                # 5. 写入 UI 所需的最新字段名
+                row_data["calc_actual_dmg"] = int(actual_dmg)
+                row_data["calc_total_shield_val"] = int(sum(s["remain_hp"] for s in active_shields))
+                row_data["calc_hot_ticks"] = hot_ticks
+
+            # 计算完后立刻通知 UI 刷新表格！
+            self.data_updated.emit(self.timeline_data)
+
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
+            self.error_occurred.emit("算力引擎崩溃", f"计算护盾覆盖时发生错误：\n{str(e)}")
+
+    # ===============================================
+    # 智能兼容性 CSV 导入导出
+    # ===============================================
     def import_csv(self, file_path):
         try:
             new_data = []
-            with open(file_path, mode='r', encoding='utf-8-sig') as f:
-                reader = csv.DictReader(f)
-                for row in reader:
-                    time_str = row.get("时间", "00:00")
-                    parts = time_str.split(":")
-                    time_sec = int(parts[0]) * 60 + int(parts[1]) if len(parts) == 2 else 0
 
-                    mits_str = row.get("当前安排", "")
+            # 🛡️ 神级探测：自动判断 Excel 的 GBK 编码与标准 UTF-8，彻底消灭导入变空！
+            try:
+                f = open(file_path, mode='r', encoding='utf-8-sig')
+                f.read(1)
+                f.seek(0)
+            except UnicodeDecodeError:
+                f = open(file_path, mode='r', encoding='gbk')
+
+            reader = csv.DictReader(f)
+
+            for row in reader:
+                time_str = row.get("时间", "00:00")
+                parts = time_str.split(":")
+                time_sec = int(parts[0]) * 60 + int(parts[1]) if len(parts) == 2 else 0
+
+                # 兼容多种列名，防止用户手动修改表头
+                skill = row.get("Boss技能/内容", row.get("Boss技能/文本", row.get("Boss技能", "")))
+                note = row.get("备注", row.get("备注/战术指南", ""))
+                dmg_type = row.get("类型", "魔法")
+
+                raw_dmg_str = str(row.get("原始伤害", "0")).replace(",", "")
+                raw_dmg = int(float(raw_dmg_str)) if raw_dmg_str.replace('.', '', 1).isdigit() else 0
+
+                row_type = row.get("行类型", row.get("row_type", "normal"))
+                if "=====" in skill:
+                    row_type = "divider"
+                elif "💡" in skill:
+                    row_type = "remark"
+
+                hl_str = str(row.get("高亮", "False")).lower()
+                highlight = (hl_str == "true" or hl_str == "1")
+
+                # 兼容多种排列分隔符
+                mits_str = row.get("当前安排", "")
+                if "+" in mits_str:
                     mits = [m.strip() for m in mits_str.split("+") if m.strip()]
+                elif "|" in mits_str:
+                    mits = [m.strip() for m in mits_str.split("|") if m.strip()]
+                else:
+                    mits = [m.strip() for m in mits_str.split(",") if m.strip()]
 
-                    new_data.append({
-                        "time": time_sec,
-                        "time_str": time_str,
-                        "skill": row.get("Boss技能/文本", ""),
-                        "note": row.get("备注", ""),
-                        "dmg_type": row.get("类型", "魔法"),
-                        "raw_dmg": int(row.get("原始伤害", 0)),
-                        "row_type": row.get("行类型", "normal"),
-                        "highlight": str(row.get("高亮", "False")).lower() == "true",
-                        "mits": mits
-                    })
+                new_data.append({
+                    "time": time_sec,
+                    "time_str": time_str,
+                    "skill": skill,
+                    "note": note,
+                    "dmg_type": dmg_type,
+                    "raw_dmg": raw_dmg,
+                    "row_type": row_type,
+                    "highlight": highlight,
+                    "mits": mits
+                })
+
+            f.close()
+
+            # 读取成功，重置数据并推演全盘算力
             self.timeline_data = new_data
             self.recalculate_all()
             self.broadcast_state()
-            self.info_occurred.emit("导入成功", f"成功从 CSV 加载了 {len(new_data)} 行排轴数据！")
+            self.info_occurred.emit("导入成功", f"成功从 CSV 满血复活了 {len(new_data)} 行排轴数据！")
+
         except Exception as e:
-            self.error_occurred.emit("导入失败", f"读取 CSV 失败：\n{str(e)}")
+            import traceback
+            traceback.print_exc()
+            self.error_occurred.emit("导入失败", f"文件可能被占用或格式损坏：\n{str(e)}")
 
     def export_csv(self, file_path):
         try:
+            # 强制带 BOM 头，防止 Windows 用户用 Excel 打开乱码
             with open(file_path, mode='w', newline='', encoding='utf-8-sig') as f:
                 writer = csv.writer(f)
                 writer.writerow(
-                    ["时间", "Boss技能/文本", "备注", "类型", "原始伤害", "当前安排", "综合减免", "实际伤害", "行类型",
-                     "高亮"])
+                    ["时间", "Boss技能/内容", "备注/战术指南", "类型", "原始伤害", "当前安排", "综合减免", "实际伤害",
+                     "行类型", "高亮"])
+
                 for row in self.timeline_data:
                     row_type = row.get("row_type", "normal")
                     hl = str(row.get("highlight", False))
                     note = row.get("note", "")
+
                     if row_type != "normal":
                         writer.writerow(
                             [row.get("time_str", ""), row.get("skill", ""), note, "", "", "", "", "", row_type, hl])
@@ -310,6 +381,7 @@ class PlannerController(QObject):
                             row.get("raw_dmg", 0), mits, row.get("calc_mit_ratio_str", "0%"),
                             row.get("calc_actual_dmg", 0), row_type, hl
                         ])
-            self.info_occurred.emit("导出成功", f"排轴已成功保存在：\n{file_path}")
+
+            self.info_occurred.emit("导出成功", f"战术板已保存至：\n{file_path}")
         except Exception as e:
-            self.error_occurred.emit("导出失败", str(e))
+            self.error_occurred.emit("导出失败", f"无法保存，请检查文件是否被 Excel 打开占用：\n{str(e)}")

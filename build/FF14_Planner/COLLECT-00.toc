@@ -794,6 +794,1705 @@
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-utility-l1-1-0.dll',
    'BINARY'),
+  ('assets\\db\\skills.db',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 monitor\\assets\\db\\skills.db',
+   'DATA'),
+  ('assets\\fflogs_config.json',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\fflogs_config.json',
+   'DATA'),
+  ('assets\\icons\\000103.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000103.png',
+   'DATA'),
+  ('assets\\icons\\000151.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000151.png',
+   'DATA'),
+  ('assets\\icons\\000156.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000156.png',
+   'DATA'),
+  ('assets\\icons\\000157.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000157.png',
+   'DATA'),
+  ('assets\\icons\\000216.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000216.png',
+   'DATA'),
+  ('assets\\icons\\000258.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000258.png',
+   'DATA'),
+  ('assets\\icons\\000263.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000263.png',
+   'DATA'),
+  ('assets\\icons\\000265.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000265.png',
+   'DATA'),
+  ('assets\\icons\\000266.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000266.png',
+   'DATA'),
+  ('assets\\icons\\000267.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000267.png',
+   'DATA'),
+  ('assets\\icons\\000405.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000405.png',
+   'DATA'),
+  ('assets\\icons\\000406.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000406.png',
+   'DATA'),
+  ('assets\\icons\\000407.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000407.png',
+   'DATA'),
+  ('assets\\icons\\000408.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000408.png',
+   'DATA'),
+  ('assets\\icons\\000409.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000409.png',
+   'DATA'),
+  ('assets\\icons\\000463.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000463.png',
+   'DATA'),
+  ('assets\\icons\\000514.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000514.png',
+   'DATA'),
+  ('assets\\icons\\000518.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000518.png',
+   'DATA'),
+  ('assets\\icons\\000607.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000607.png',
+   'DATA'),
+  ('assets\\icons\\000609.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000609.png',
+   'DATA'),
+  ('assets\\icons\\000784.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000784.png',
+   'DATA'),
+  ('assets\\icons\\000801.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000801.png',
+   'DATA'),
+  ('assets\\icons\\000806.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000806.png',
+   'DATA'),
+  ('assets\\icons\\000821.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000821.png',
+   'DATA'),
+  ('assets\\icons\\000828.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000828.png',
+   'DATA'),
+  ('assets\\icons\\000861.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\000861.png',
+   'DATA'),
+  ('assets\\icons\\001009.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\001009.png',
+   'DATA'),
+  ('assets\\icons\\001059.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\001059.png',
+   'DATA'),
+  ('assets\\icons\\001113.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\001113.png',
+   'DATA'),
+  ('assets\\icons\\001114.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\001114.png',
+   'DATA'),
+  ('assets\\icons\\001985.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\001985.png',
+   'DATA'),
+  ('assets\\icons\\001992.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\001992.png',
+   'DATA'),
+  ('assets\\icons\\001993.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\001993.png',
+   'DATA'),
+  ('assets\\icons\\002050.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002050.png',
+   'DATA'),
+  ('assets\\icons\\002075.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002075.png',
+   'DATA'),
+  ('assets\\icons\\002078.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002078.png',
+   'DATA'),
+  ('assets\\icons\\002100.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002100.png',
+   'DATA'),
+  ('assets\\icons\\002126.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002126.png',
+   'DATA'),
+  ('assets\\icons\\002127.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002127.png',
+   'DATA'),
+  ('assets\\icons\\002128.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002128.png',
+   'DATA'),
+  ('assets\\icons\\002151.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002151.png',
+   'DATA'),
+  ('assets\\icons\\002502.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002502.png',
+   'DATA'),
+  ('assets\\icons\\002508.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002508.png',
+   'DATA'),
+  ('assets\\icons\\002509.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002509.png',
+   'DATA'),
+  ('assets\\icons\\002510.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002510.png',
+   'DATA'),
+  ('assets\\icons\\002512.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002512.png',
+   'DATA'),
+  ('assets\\icons\\002515.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002515.png',
+   'DATA'),
+  ('assets\\icons\\002517.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002517.png',
+   'DATA'),
+  ('assets\\icons\\002518.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002518.png',
+   'DATA'),
+  ('assets\\icons\\002524.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002524.png',
+   'DATA'),
+  ('assets\\icons\\002527.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002527.png',
+   'DATA'),
+  ('assets\\icons\\002531.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002531.png',
+   'DATA'),
+  ('assets\\icons\\002533.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002533.png',
+   'DATA'),
+  ('assets\\icons\\002537.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002537.png',
+   'DATA'),
+  ('assets\\icons\\002548.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002548.png',
+   'DATA'),
+  ('assets\\icons\\002549.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002549.png',
+   'DATA'),
+  ('assets\\icons\\002559.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002559.png',
+   'DATA'),
+  ('assets\\icons\\002560.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002560.png',
+   'DATA'),
+  ('assets\\icons\\002563.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002563.png',
+   'DATA'),
+  ('assets\\icons\\002567.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002567.png',
+   'DATA'),
+  ('assets\\icons\\002569.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002569.png',
+   'DATA'),
+  ('assets\\icons\\002571.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002571.png',
+   'DATA'),
+  ('assets\\icons\\002573.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002573.png',
+   'DATA'),
+  ('assets\\icons\\002574.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002574.png',
+   'DATA'),
+  ('assets\\icons\\002578.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002578.png',
+   'DATA'),
+  ('assets\\icons\\002583.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002583.png',
+   'DATA'),
+  ('assets\\icons\\002589.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002589.png',
+   'DATA'),
+  ('assets\\icons\\002591.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002591.png',
+   'DATA'),
+  ('assets\\icons\\002593.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002593.png',
+   'DATA'),
+  ('assets\\icons\\002597.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002597.png',
+   'DATA'),
+  ('assets\\icons\\002609.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002609.png',
+   'DATA'),
+  ('assets\\icons\\002611.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002611.png',
+   'DATA'),
+  ('assets\\icons\\002612.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002612.png',
+   'DATA'),
+  ('assets\\icons\\002615.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002615.png',
+   'DATA'),
+  ('assets\\icons\\002621.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002621.png',
+   'DATA'),
+  ('assets\\icons\\002624.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002624.png',
+   'DATA'),
+  ('assets\\icons\\002627.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002627.png',
+   'DATA'),
+  ('assets\\icons\\002628.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002628.png',
+   'DATA'),
+  ('assets\\icons\\002632.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002632.png',
+   'DATA'),
+  ('assets\\icons\\002633.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002633.png',
+   'DATA'),
+  ('assets\\icons\\002634.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002634.png',
+   'DATA'),
+  ('assets\\icons\\002636.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002636.png',
+   'DATA'),
+  ('assets\\icons\\002638.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002638.png',
+   'DATA'),
+  ('assets\\icons\\002639.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002639.png',
+   'DATA'),
+  ('assets\\icons\\002640.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002640.png',
+   'DATA'),
+  ('assets\\icons\\002643.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002643.png',
+   'DATA'),
+  ('assets\\icons\\002644.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002644.png',
+   'DATA'),
+  ('assets\\icons\\002645.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002645.png',
+   'DATA'),
+  ('assets\\icons\\002648.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002648.png',
+   'DATA'),
+  ('assets\\icons\\002649.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002649.png',
+   'DATA'),
+  ('assets\\icons\\002652.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002652.png',
+   'DATA'),
+  ('assets\\icons\\002664.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002664.png',
+   'DATA'),
+  ('assets\\icons\\002680.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002680.png',
+   'DATA'),
+  ('assets\\icons\\002685.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002685.png',
+   'DATA'),
+  ('assets\\icons\\002686.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002686.png',
+   'DATA'),
+  ('assets\\icons\\002693.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002693.png',
+   'DATA'),
+  ('assets\\icons\\002694.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002694.png',
+   'DATA'),
+  ('assets\\icons\\002731.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002731.png',
+   'DATA'),
+  ('assets\\icons\\002732.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002732.png',
+   'DATA'),
+  ('assets\\icons\\002737.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002737.png',
+   'DATA'),
+  ('assets\\icons\\002750.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002750.png',
+   'DATA'),
+  ('assets\\icons\\002755.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002755.png',
+   'DATA'),
+  ('assets\\icons\\002756.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002756.png',
+   'DATA'),
+  ('assets\\icons\\002764.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002764.png',
+   'DATA'),
+  ('assets\\icons\\002769.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002769.png',
+   'DATA'),
+  ('assets\\icons\\002770.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002770.png',
+   'DATA'),
+  ('assets\\icons\\002771.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002771.png',
+   'DATA'),
+  ('assets\\icons\\002772.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002772.png',
+   'DATA'),
+  ('assets\\icons\\002773.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002773.png',
+   'DATA'),
+  ('assets\\icons\\002774.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002774.png',
+   'DATA'),
+  ('assets\\icons\\002775.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002775.png',
+   'DATA'),
+  ('assets\\icons\\002779.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002779.png',
+   'DATA'),
+  ('assets\\icons\\002786.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002786.png',
+   'DATA'),
+  ('assets\\icons\\002787.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002787.png',
+   'DATA'),
+  ('assets\\icons\\002788.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002788.png',
+   'DATA'),
+  ('assets\\icons\\002789.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002789.png',
+   'DATA'),
+  ('assets\\icons\\002801.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002801.png',
+   'DATA'),
+  ('assets\\icons\\002802.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002802.png',
+   'DATA'),
+  ('assets\\icons\\002804.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002804.png',
+   'DATA'),
+  ('assets\\icons\\002805.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002805.png',
+   'DATA'),
+  ('assets\\icons\\002806.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002806.png',
+   'DATA'),
+  ('assets\\icons\\002807.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002807.png',
+   'DATA'),
+  ('assets\\icons\\002809.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002809.png',
+   'DATA'),
+  ('assets\\icons\\002810.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002810.png',
+   'DATA'),
+  ('assets\\icons\\002813.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002813.png',
+   'DATA'),
+  ('assets\\icons\\002818.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002818.png',
+   'DATA'),
+  ('assets\\icons\\002826.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002826.png',
+   'DATA'),
+  ('assets\\icons\\002827.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002827.png',
+   'DATA'),
+  ('assets\\icons\\002829.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002829.png',
+   'DATA'),
+  ('assets\\icons\\002846.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002846.png',
+   'DATA'),
+  ('assets\\icons\\002847.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002847.png',
+   'DATA'),
+  ('assets\\icons\\002848.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002848.png',
+   'DATA'),
+  ('assets\\icons\\002849.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002849.png',
+   'DATA'),
+  ('assets\\icons\\002851.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002851.png',
+   'DATA'),
+  ('assets\\icons\\002852.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002852.png',
+   'DATA'),
+  ('assets\\icons\\002853.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002853.png',
+   'DATA'),
+  ('assets\\icons\\002854.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002854.png',
+   'DATA'),
+  ('assets\\icons\\002855.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002855.png',
+   'DATA'),
+  ('assets\\icons\\002877.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002877.png',
+   'DATA'),
+  ('assets\\icons\\002878.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002878.png',
+   'DATA'),
+  ('assets\\icons\\002880.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002880.png',
+   'DATA'),
+  ('assets\\icons\\002881.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002881.png',
+   'DATA'),
+  ('assets\\icons\\002882.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002882.png',
+   'DATA'),
+  ('assets\\icons\\002883.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002883.png',
+   'DATA'),
+  ('assets\\icons\\002917.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002917.png',
+   'DATA'),
+  ('assets\\icons\\002918.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002918.png',
+   'DATA'),
+  ('assets\\icons\\002950.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002950.png',
+   'DATA'),
+  ('assets\\icons\\002951.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002951.png',
+   'DATA'),
+  ('assets\\icons\\002952.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002952.png',
+   'DATA'),
+  ('assets\\icons\\002953.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002953.png',
+   'DATA'),
+  ('assets\\icons\\002954.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002954.png',
+   'DATA'),
+  ('assets\\icons\\002955.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002955.png',
+   'DATA'),
+  ('assets\\icons\\002956.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002956.png',
+   'DATA'),
+  ('assets\\icons\\002980.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002980.png',
+   'DATA'),
+  ('assets\\icons\\002981.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002981.png',
+   'DATA'),
+  ('assets\\icons\\002985.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002985.png',
+   'DATA'),
+  ('assets\\icons\\002986.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002986.png',
+   'DATA'),
+  ('assets\\icons\\002987.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\002987.png',
+   'DATA'),
+  ('assets\\icons\\003011.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003011.png',
+   'DATA'),
+  ('assets\\icons\\003017.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003017.png',
+   'DATA'),
+  ('assets\\icons\\003040.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003040.png',
+   'DATA'),
+  ('assets\\icons\\003048.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003048.png',
+   'DATA'),
+  ('assets\\icons\\003049.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003049.png',
+   'DATA'),
+  ('assets\\icons\\003064.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003064.png',
+   'DATA'),
+  ('assets\\icons\\003071.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003071.png',
+   'DATA'),
+  ('assets\\icons\\003075.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003075.png',
+   'DATA'),
+  ('assets\\icons\\003076.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003076.png',
+   'DATA'),
+  ('assets\\icons\\003077.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003077.png',
+   'DATA'),
+  ('assets\\icons\\003078.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003078.png',
+   'DATA'),
+  ('assets\\icons\\003081.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003081.png',
+   'DATA'),
+  ('assets\\icons\\003087.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003087.png',
+   'DATA'),
+  ('assets\\icons\\003089.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003089.png',
+   'DATA'),
+  ('assets\\icons\\003090.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003090.png',
+   'DATA'),
+  ('assets\\icons\\003091.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003091.png',
+   'DATA'),
+  ('assets\\icons\\003094.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003094.png',
+   'DATA'),
+  ('assets\\icons\\003099.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003099.png',
+   'DATA'),
+  ('assets\\icons\\003109.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003109.png',
+   'DATA'),
+  ('assets\\icons\\003111.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003111.png',
+   'DATA'),
+  ('assets\\icons\\003114.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003114.png',
+   'DATA'),
+  ('assets\\icons\\003115.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003115.png',
+   'DATA'),
+  ('assets\\icons\\003126.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003126.png',
+   'DATA'),
+  ('assets\\icons\\003127.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003127.png',
+   'DATA'),
+  ('assets\\icons\\003128.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003128.png',
+   'DATA'),
+  ('assets\\icons\\003129.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003129.png',
+   'DATA'),
+  ('assets\\icons\\003130.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003130.png',
+   'DATA'),
+  ('assets\\icons\\003139.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003139.png',
+   'DATA'),
+  ('assets\\icons\\003140.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003140.png',
+   'DATA'),
+  ('assets\\icons\\003141.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003141.png',
+   'DATA'),
+  ('assets\\icons\\003142.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003142.png',
+   'DATA'),
+  ('assets\\icons\\003143.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003143.png',
+   'DATA'),
+  ('assets\\icons\\003144.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003144.png',
+   'DATA'),
+  ('assets\\icons\\003146.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003146.png',
+   'DATA'),
+  ('assets\\icons\\003153.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003153.png',
+   'DATA'),
+  ('assets\\icons\\003177.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003177.png',
+   'DATA'),
+  ('assets\\icons\\003184.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003184.png',
+   'DATA'),
+  ('assets\\icons\\003187.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003187.png',
+   'DATA'),
+  ('assets\\icons\\003188.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003188.png',
+   'DATA'),
+  ('assets\\icons\\003190.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003190.png',
+   'DATA'),
+  ('assets\\icons\\003192.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003192.png',
+   'DATA'),
+  ('assets\\icons\\003216.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003216.png',
+   'DATA'),
+  ('assets\\icons\\003223.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003223.png',
+   'DATA'),
+  ('assets\\icons\\003224.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003224.png',
+   'DATA'),
+  ('assets\\icons\\003234.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003234.png',
+   'DATA'),
+  ('assets\\icons\\003236.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003236.png',
+   'DATA'),
+  ('assets\\icons\\003237.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003237.png',
+   'DATA'),
+  ('assets\\icons\\003238.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003238.png',
+   'DATA'),
+  ('assets\\icons\\003242.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003242.png',
+   'DATA'),
+  ('assets\\icons\\003243.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003243.png',
+   'DATA'),
+  ('assets\\icons\\003244.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003244.png',
+   'DATA'),
+  ('assets\\icons\\003252.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003252.png',
+   'DATA'),
+  ('assets\\icons\\003255.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003255.png',
+   'DATA'),
+  ('assets\\icons\\003256.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003256.png',
+   'DATA'),
+  ('assets\\icons\\003257.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003257.png',
+   'DATA'),
+  ('assets\\icons\\003258.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003258.png',
+   'DATA'),
+  ('assets\\icons\\003259.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003259.png',
+   'DATA'),
+  ('assets\\icons\\003262.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003262.png',
+   'DATA'),
+  ('assets\\icons\\003264.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003264.png',
+   'DATA'),
+  ('assets\\icons\\003266.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003266.png',
+   'DATA'),
+  ('assets\\icons\\003267.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003267.png',
+   'DATA'),
+  ('assets\\icons\\003270.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003270.png',
+   'DATA'),
+  ('assets\\icons\\003272.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003272.png',
+   'DATA'),
+  ('assets\\icons\\003277.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003277.png',
+   'DATA'),
+  ('assets\\icons\\003285.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003285.png',
+   'DATA'),
+  ('assets\\icons\\003287.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003287.png',
+   'DATA'),
+  ('assets\\icons\\003288.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003288.png',
+   'DATA'),
+  ('assets\\icons\\003290.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003290.png',
+   'DATA'),
+  ('assets\\icons\\003292.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003292.png',
+   'DATA'),
+  ('assets\\icons\\003293.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003293.png',
+   'DATA'),
+  ('assets\\icons\\003296.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003296.png',
+   'DATA'),
+  ('assets\\icons\\003297.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003297.png',
+   'DATA'),
+  ('assets\\icons\\003298.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003298.png',
+   'DATA'),
+  ('assets\\icons\\003300.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003300.png',
+   'DATA'),
+  ('assets\\icons\\003301.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003301.png',
+   'DATA'),
+  ('assets\\icons\\003302.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003302.png',
+   'DATA'),
+  ('assets\\icons\\003303.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003303.png',
+   'DATA'),
+  ('assets\\icons\\003304.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003304.png',
+   'DATA'),
+  ('assets\\icons\\003308.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003308.png',
+   'DATA'),
+  ('assets\\icons\\003309.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003309.png',
+   'DATA'),
+  ('assets\\icons\\003310.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003310.png',
+   'DATA'),
+  ('assets\\icons\\003315.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003315.png',
+   'DATA'),
+  ('assets\\icons\\003316.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003316.png',
+   'DATA'),
+  ('assets\\icons\\003320.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003320.png',
+   'DATA'),
+  ('assets\\icons\\003323.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003323.png',
+   'DATA'),
+  ('assets\\icons\\003325.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003325.png',
+   'DATA'),
+  ('assets\\icons\\003328.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003328.png',
+   'DATA'),
+  ('assets\\icons\\003329.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003329.png',
+   'DATA'),
+  ('assets\\icons\\003330.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003330.png',
+   'DATA'),
+  ('assets\\icons\\003332.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003332.png',
+   'DATA'),
+  ('assets\\icons\\003333.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003333.png',
+   'DATA'),
+  ('assets\\icons\\003336.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003336.png',
+   'DATA'),
+  ('assets\\icons\\003338.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003338.png',
+   'DATA'),
+  ('assets\\icons\\003339.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003339.png',
+   'DATA'),
+  ('assets\\icons\\003340.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003340.png',
+   'DATA'),
+  ('assets\\icons\\003341.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003341.png',
+   'DATA'),
+  ('assets\\icons\\003345.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003345.png',
+   'DATA'),
+  ('assets\\icons\\003346.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003346.png',
+   'DATA'),
+  ('assets\\icons\\003347.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003347.png',
+   'DATA'),
+  ('assets\\icons\\003349.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003349.png',
+   'DATA'),
+  ('assets\\icons\\003350.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003350.png',
+   'DATA'),
+  ('assets\\icons\\003351.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003351.png',
+   'DATA'),
+  ('assets\\icons\\003353.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003353.png',
+   'DATA'),
+  ('assets\\icons\\003355.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003355.png',
+   'DATA'),
+  ('assets\\icons\\003356.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003356.png',
+   'DATA'),
+  ('assets\\icons\\003357.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003357.png',
+   'DATA'),
+  ('assets\\icons\\003361.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003361.png',
+   'DATA'),
+  ('assets\\icons\\003363.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003363.png',
+   'DATA'),
+  ('assets\\icons\\003364.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003364.png',
+   'DATA'),
+  ('assets\\icons\\003365.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003365.png',
+   'DATA'),
+  ('assets\\icons\\003369.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003369.png',
+   'DATA'),
+  ('assets\\icons\\003370.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003370.png',
+   'DATA'),
+  ('assets\\icons\\003371.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003371.png',
+   'DATA'),
+  ('assets\\icons\\003372.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003372.png',
+   'DATA'),
+  ('assets\\icons\\003373.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003373.png',
+   'DATA'),
+  ('assets\\icons\\003377.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003377.png',
+   'DATA'),
+  ('assets\\icons\\003403.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003403.png',
+   'DATA'),
+  ('assets\\icons\\003404.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003404.png',
+   'DATA'),
+  ('assets\\icons\\003412.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003412.png',
+   'DATA'),
+  ('assets\\icons\\003415.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003415.png',
+   'DATA'),
+  ('assets\\icons\\003416.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003416.png',
+   'DATA'),
+  ('assets\\icons\\003424.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003424.png',
+   'DATA'),
+  ('assets\\icons\\003425.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003425.png',
+   'DATA'),
+  ('assets\\icons\\003430.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003430.png',
+   'DATA'),
+  ('assets\\icons\\003432.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003432.png',
+   'DATA'),
+  ('assets\\icons\\003435.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003435.png',
+   'DATA'),
+  ('assets\\icons\\003437.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003437.png',
+   'DATA'),
+  ('assets\\icons\\003438.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003438.png',
+   'DATA'),
+  ('assets\\icons\\003439.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003439.png',
+   'DATA'),
+  ('assets\\icons\\003459.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003459.png',
+   'DATA'),
+  ('assets\\icons\\003468.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003468.png',
+   'DATA'),
+  ('assets\\icons\\003469.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003469.png',
+   'DATA'),
+  ('assets\\icons\\003472.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003472.png',
+   'DATA'),
+  ('assets\\icons\\003474.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003474.png',
+   'DATA'),
+  ('assets\\icons\\003476.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003476.png',
+   'DATA'),
+  ('assets\\icons\\003477.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003477.png',
+   'DATA'),
+  ('assets\\icons\\003479.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003479.png',
+   'DATA'),
+  ('assets\\icons\\003480.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003480.png',
+   'DATA'),
+  ('assets\\icons\\003481.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003481.png',
+   'DATA'),
+  ('assets\\icons\\003482.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003482.png',
+   'DATA'),
+  ('assets\\icons\\003483.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003483.png',
+   'DATA'),
+  ('assets\\icons\\003484.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003484.png',
+   'DATA'),
+  ('assets\\icons\\003485.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003485.png',
+   'DATA'),
+  ('assets\\icons\\003500.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003500.png',
+   'DATA'),
+  ('assets\\icons\\003507.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003507.png',
+   'DATA'),
+  ('assets\\icons\\003508.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003508.png',
+   'DATA'),
+  ('assets\\icons\\003550.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003550.png',
+   'DATA'),
+  ('assets\\icons\\003551.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003551.png',
+   'DATA'),
+  ('assets\\icons\\003552.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003552.png',
+   'DATA'),
+  ('assets\\icons\\003553.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003553.png',
+   'DATA'),
+  ('assets\\icons\\003556.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003556.png',
+   'DATA'),
+  ('assets\\icons\\003561.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003561.png',
+   'DATA'),
+  ('assets\\icons\\003562.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003562.png',
+   'DATA'),
+  ('assets\\icons\\003566.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003566.png',
+   'DATA'),
+  ('assets\\icons\\003567.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003567.png',
+   'DATA'),
+  ('assets\\icons\\003613.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003613.png',
+   'DATA'),
+  ('assets\\icons\\003616.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003616.png',
+   'DATA'),
+  ('assets\\icons\\003621.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003621.png',
+   'DATA'),
+  ('assets\\icons\\003626.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003626.png',
+   'DATA'),
+  ('assets\\icons\\003632.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003632.png',
+   'DATA'),
+  ('assets\\icons\\003634.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003634.png',
+   'DATA'),
+  ('assets\\icons\\003638.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003638.png',
+   'DATA'),
+  ('assets\\icons\\003651.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003651.png',
+   'DATA'),
+  ('assets\\icons\\003652.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003652.png',
+   'DATA'),
+  ('assets\\icons\\003653.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003653.png',
+   'DATA'),
+  ('assets\\icons\\003654.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003654.png',
+   'DATA'),
+  ('assets\\icons\\003656.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003656.png',
+   'DATA'),
+  ('assets\\icons\\003657.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003657.png',
+   'DATA'),
+  ('assets\\icons\\003659.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003659.png',
+   'DATA'),
+  ('assets\\icons\\003660.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003660.png',
+   'DATA'),
+  ('assets\\icons\\003661.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003661.png',
+   'DATA'),
+  ('assets\\icons\\003664.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003664.png',
+   'DATA'),
+  ('assets\\icons\\003665.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003665.png',
+   'DATA'),
+  ('assets\\icons\\003666.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003666.png',
+   'DATA'),
+  ('assets\\icons\\003667.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003667.png',
+   'DATA'),
+  ('assets\\icons\\003668.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003668.png',
+   'DATA'),
+  ('assets\\icons\\003669.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003669.png',
+   'DATA'),
+  ('assets\\icons\\003670.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003670.png',
+   'DATA'),
+  ('assets\\icons\\003671.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003671.png',
+   'DATA'),
+  ('assets\\icons\\003672.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003672.png',
+   'DATA'),
+  ('assets\\icons\\003673.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003673.png',
+   'DATA'),
+  ('assets\\icons\\003674.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003674.png',
+   'DATA'),
+  ('assets\\icons\\003675.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003675.png',
+   'DATA'),
+  ('assets\\icons\\003676.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003676.png',
+   'DATA'),
+  ('assets\\icons\\003678.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003678.png',
+   'DATA'),
+  ('assets\\icons\\003679.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003679.png',
+   'DATA'),
+  ('assets\\icons\\003680.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003680.png',
+   'DATA'),
+  ('assets\\icons\\003681.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003681.png',
+   'DATA'),
+  ('assets\\icons\\003682.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003682.png',
+   'DATA'),
+  ('assets\\icons\\003683.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003683.png',
+   'DATA'),
+  ('assets\\icons\\003684.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003684.png',
+   'DATA'),
+  ('assets\\icons\\003686.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003686.png',
+   'DATA'),
+  ('assets\\icons\\003687.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003687.png',
+   'DATA'),
+  ('assets\\icons\\003688.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003688.png',
+   'DATA'),
+  ('assets\\icons\\003689.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003689.png',
+   'DATA'),
+  ('assets\\icons\\003690.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003690.png',
+   'DATA'),
+  ('assets\\icons\\003721.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003721.png',
+   'DATA'),
+  ('assets\\icons\\003722.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003722.png',
+   'DATA'),
+  ('assets\\icons\\003723.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003723.png',
+   'DATA'),
+  ('assets\\icons\\003724.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003724.png',
+   'DATA'),
+  ('assets\\icons\\003725.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003725.png',
+   'DATA'),
+  ('assets\\icons\\003726.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003726.png',
+   'DATA'),
+  ('assets\\icons\\003728.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003728.png',
+   'DATA'),
+  ('assets\\icons\\003735.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003735.png',
+   'DATA'),
+  ('assets\\icons\\003736.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003736.png',
+   'DATA'),
+  ('assets\\icons\\003737.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003737.png',
+   'DATA'),
+  ('assets\\icons\\003738.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003738.png',
+   'DATA'),
+  ('assets\\icons\\003739.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003739.png',
+   'DATA'),
+  ('assets\\icons\\003740.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003740.png',
+   'DATA'),
+  ('assets\\icons\\003813.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003813.png',
+   'DATA'),
+  ('assets\\icons\\003814.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003814.png',
+   'DATA'),
+  ('assets\\icons\\003821.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003821.png',
+   'DATA'),
+  ('assets\\icons\\003822.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003822.png',
+   'DATA'),
+  ('assets\\icons\\003823.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003823.png',
+   'DATA'),
+  ('assets\\icons\\003824.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003824.png',
+   'DATA'),
+  ('assets\\icons\\003827.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003827.png',
+   'DATA'),
+  ('assets\\icons\\003828.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003828.png',
+   'DATA'),
+  ('assets\\icons\\003829.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003829.png',
+   'DATA'),
+  ('assets\\icons\\003830.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003830.png',
+   'DATA'),
+  ('assets\\icons\\003831.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003831.png',
+   'DATA'),
+  ('assets\\icons\\003832.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003832.png',
+   'DATA'),
+  ('assets\\icons\\003835.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003835.png',
+   'DATA'),
+  ('assets\\icons\\003836.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003836.png',
+   'DATA'),
+  ('assets\\icons\\003838.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\003838.png',
+   'DATA'),
+  ('assets\\icons\\061261.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\061261.png',
+   'DATA'),
+  ('assets\\icons\\064603.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064603.png',
+   'DATA'),
+  ('assets\\icons\\064604.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064604.png',
+   'DATA'),
+  ('assets\\icons\\064607.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064607.png',
+   'DATA'),
+  ('assets\\icons\\064608.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064608.png',
+   'DATA'),
+  ('assets\\icons\\064609.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064609.png',
+   'DATA'),
+  ('assets\\icons\\064652.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064652.png',
+   'DATA'),
+  ('assets\\icons\\064655.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064655.png',
+   'DATA'),
+  ('assets\\icons\\064676.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064676.png',
+   'DATA'),
+  ('assets\\icons\\064678.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064678.png',
+   'DATA'),
+  ('assets\\icons\\064679.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064679.png',
+   'DATA'),
+  ('assets\\icons\\064695.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064695.png',
+   'DATA'),
+  ('assets\\icons\\064705.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064705.png',
+   'DATA'),
+  ('assets\\icons\\064706.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064706.png',
+   'DATA'),
+  ('assets\\icons\\064707.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064707.png',
+   'DATA'),
+  ('assets\\icons\\064720.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064720.png',
+   'DATA'),
+  ('assets\\icons\\064721.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064721.png',
+   'DATA'),
+  ('assets\\icons\\064722.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064722.png',
+   'DATA'),
+  ('assets\\icons\\064756.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064756.png',
+   'DATA'),
+  ('assets\\icons\\064760.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064760.png',
+   'DATA'),
+  ('assets\\icons\\064803.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064803.png',
+   'DATA'),
+  ('assets\\icons\\064816.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064816.png',
+   'DATA'),
+  ('assets\\icons\\064820.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064820.png',
+   'DATA'),
+  ('assets\\icons\\064821.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064821.png',
+   'DATA'),
+  ('assets\\icons\\064824.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064824.png',
+   'DATA'),
+  ('assets\\icons\\064830.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064830.png',
+   'DATA'),
+  ('assets\\icons\\064837.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064837.png',
+   'DATA'),
+  ('assets\\icons\\064847.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064847.png',
+   'DATA'),
+  ('assets\\icons\\064850.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064850.png',
+   'DATA'),
+  ('assets\\icons\\064868.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064868.png',
+   'DATA'),
+  ('assets\\icons\\064872.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064872.png',
+   'DATA'),
+  ('assets\\icons\\064873.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064873.png',
+   'DATA'),
+  ('assets\\icons\\064875.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064875.png',
+   'DATA'),
+  ('assets\\icons\\064880.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064880.png',
+   'DATA'),
+  ('assets\\icons\\064895.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064895.png',
+   'DATA'),
+  ('assets\\icons\\064896.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064896.png',
+   'DATA'),
+  ('assets\\icons\\064897.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064897.png',
+   'DATA'),
+  ('assets\\icons\\064905.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064905.png',
+   'DATA'),
+  ('assets\\icons\\064922.png',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\icons\\064922.png',
+   'DATA'),
+  ('assets\\sync_config.json',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\sync_config.json',
+   'DATA'),
+  ('assets\\translation_cache.json',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\assets\\translation_cache.json',
+   'DATA'),
   ('base_library.zip',
    'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
    'monitor\\build\\FF14_Planner\\base_library.zip',
