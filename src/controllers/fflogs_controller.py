@@ -208,7 +208,7 @@ class FFLogsWorker(QThread):
 
                 if is_dot_tick:
                     skill_name = f"[DoT] {skill_name}"
-                    group_window = 25.0
+                    group_window = 1.0
                 else:
                     group_window = 3.0
 
