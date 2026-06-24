@@ -1,0 +1,3480 @@
+{
+  "data": {
+    "reportData": {
+      "report": {
+        "fights": [
+          {
+            "id": 1,
+            "startTime": 1552013,
+            "endTime": 1618200,
+            "name": "Fatebreaker"
+          },
+          {
+            "id": 2,
+            "startTime": 1721575,
+            "endTime": 1942320,
+            "name": "Fatebreaker / Usurper of Frost"
+          },
+          {
+            "id": 3,
+            "startTime": 1970500,
+            "endTime": 3091864,
+            "name": "Oracle of Darkness / Usurper of Frost / ... "
+          },
+          {
+            "id": 4,
+            "startTime": 3180901,
+            "endTime": 3771759,
+            "name": "Oracle of Darkness / Fatebreaker / Usurper of Frost"
+          },
+          {
+            "id": 5,
+            "startTime": 3992789,
+            "endTime": 4306827,
+            "name": "Fatebreaker / Usurper of Frost"
+          },
+          {
+            "id": 6,
+            "startTime": 4335844,
+            "endTime": 5456602,
+            "name": "Oracle of Darkness / Usurper of Frost / ... "
+          },
+          {
+            "id": 7,
+            "startTime": 5517018,
+            "endTime": 6189323,
+            "name": "Oracle of Darkness / Usurper of Frost / Fatebreaker"
+          },
+          {
+            "id": 8,
+            "startTime": 6222544,
+            "endTime": 6381851,
+            "name": "Fatebreaker"
+          },
+          {
+            "id": 9,
+            "startTime": 6406930,
+            "endTime": 6494158,
+            "name": "Fatebreaker"
+          },
+          {
+            "id": 10,
+            "startTime": 6526232,
+            "endTime": 7108997,
+            "name": "Oracle of Darkness / Fatebreaker / Usurper of Frost"
+          },
+          {
+            "id": 11,
+            "startTime": 7136891,
+            "endTime": 8251857,
+            "name": "Oracle of Darkness / Usurper of Frost / ... "
+          }
+        ],
+        "masterData": {
+          "abilities": [
+            {
+              "gameID": 0,
+              "name": "Unknown Ability",
+              "type": "0"
+            },
+            {
+              "gameID": 1302,
+              "name": "Regeneration",
+              "type": "8"
+            },
+            {
+              "gameID": 17215,
+              "name": "Summon Eos",
+              "type": "1"
+            },
+            {
+              "gameID": 36942,
+              "name": "Forbidden Meditation",
+              "type": "1"
+            },
+            {
+              "gameID": 4262,
+              "name": "Form Shift",
+              "type": "1"
+            },
+            {
+              "gameID": 1002513,
+              "name": "Formless Fist",
+              "type": "1"
+            },
+            {
+              "gameID": 34603672,
+              "name": "Caramel Popcorn [HQ]",
+              "type": "1"
+            },
+            {
+              "gameID": 1000048,
+              "name": "Well Fed",
+              "type": "1"
+            },
+            {
+              "gameID": 802,
+              "name": "Embrace",
+              "type": "8"
+            },
+            {
+              "gameID": 34603676,
+              "name": "Popoto Potage [HQ]",
+              "type": "1"
+            },
+            {
+              "gameID": 48,
+              "name": "Defiance",
+              "type": "1"
+            },
+            {
+              "gameID": 1000091,
+              "name": "Defiance",
+              "type": "1"
+            },
+            {
+              "gameID": 65,
+              "name": "Mantra",
+              "type": "1"
+            },
+            {
+              "gameID": 1000102,
+              "name": "Mantra",
+              "type": "1"
+            },
+            {
+              "gameID": 37013,
+              "name": "Concitation",
+              "type": "8"
+            },
+            {
+              "gameID": 3540,
+              "name": "Divine Veil",
+              "type": "8"
+            },
+            {
+              "gameID": 1001362,
+              "name": "Divine Veil",
+              "type": "8"
+            },
+            {
+              "gameID": 1000297,
+              "name": "Galvanize",
+              "type": "8"
+            },
+            {
+              "gameID": 185,
+              "name": "Adloquium",
+              "type": "8"
+            },
+            {
+              "gameID": 34688,
+              "name": "Rainbow Drip",
+              "type": "1024"
+            },
+            {
+              "gameID": 25856,
+              "name": "Veraero III",
+              "type": "1024"
+            },
+            {
+              "gameID": 3,
+              "name": "Sprint",
+              "type": "1"
+            },
+            {
+              "gameID": 1000050,
+              "name": "Sprint",
+              "type": "1"
+            },
+            {
+              "gameID": 7384,
+              "name": "Holy Spirit",
+              "type": "1024"
+            },
+            {
+              "gameID": 25859,
+              "name": "Glare III",
+              "type": "1024"
+            },
+            {
+              "gameID": 25865,
+              "name": "Broil IV",
+              "type": "1024"
+            },
+            {
+              "gameID": 7533,
+              "name": "Provoke",
+              "type": "1"
+            },
+            {
+              "gameID": 25762,
+              "name": "Thunderclap",
+              "type": "1"
+            },
+            {
+              "gameID": 40116,
+              "name": "Attack",
+              "type": "128"
+            },
+            {
+              "gameID": 34670,
+              "name": "Pom Muse",
+              "type": "1024"
+            },
+            {
+              "gameID": 7407,
+              "name": "Stormbite",
+              "type": "128"
+            },
+            {
+              "gameID": 8,
+              "name": "Shot",
+              "type": "128"
+            },
+            {
+              "gameID": 1003861,
+              "name": "Hawk's Eye",
+              "type": "1"
+            },
+            {
+              "gameID": 16461,
+              "name": "Intervene",
+              "type": "128"
+            },
+            {
+              "gameID": 31,
+              "name": "Heavy Swing",
+              "type": "128"
+            },
+            {
+              "gameID": 1001235,
+              "name": "Verstone Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 1001249,
+              "name": "Dualcast",
+              "type": "1"
+            },
+            {
+              "gameID": 74,
+              "name": "Dragon Kick",
+              "type": "128"
+            },
+            {
+              "gameID": 7,
+              "name": "Attack",
+              "type": "128"
+            },
+            {
+              "gameID": 1000108,
+              "name": "Raptor Form",
+              "type": "1"
+            },
+            {
+              "gameID": 1000304,
+              "name": "Aetherflow",
+              "type": "1"
+            },
+            {
+              "gameID": 1000791,
+              "name": "Dissipation",
+              "type": "1"
+            },
+            {
+              "gameID": 3587,
+              "name": "Dissipation",
+              "type": "1"
+            },
+            {
+              "gameID": 34674,
+              "name": "Striking Muse",
+              "type": "1"
+            },
+            {
+              "gameID": 3558,
+              "name": "Empyreal Arrow",
+              "type": "128"
+            },
+            {
+              "gameID": 1003680,
+              "name": "Hammer Time",
+              "type": "1"
+            },
+            {
+              "gameID": 16532,
+              "name": "Dia",
+              "type": "1024"
+            },
+            {
+              "gameID": 25855,
+              "name": "Verthunder III",
+              "type": "1024"
+            },
+            {
+              "gameID": 9,
+              "name": "Fast Blade",
+              "type": "128"
+            },
+            {
+              "gameID": 52,
+              "name": "Infuriate",
+              "type": "1"
+            },
+            {
+              "gameID": 1001897,
+              "name": "Nascent Chaos",
+              "type": "1"
+            },
+            {
+              "gameID": 69,
+              "name": "Perfect Balance",
+              "type": "1"
+            },
+            {
+              "gameID": 1000110,
+              "name": "Perfect Balance",
+              "type": "1"
+            },
+            {
+              "gameID": 1001201,
+              "name": "Stormbite",
+              "type": "1"
+            },
+            {
+              "gameID": 3559,
+              "name": "The Wanderer's Minuet",
+              "type": "1"
+            },
+            {
+              "gameID": 1002216,
+              "name": "The Wanderer's Minuet",
+              "type": "1"
+            },
+            {
+              "gameID": 16540,
+              "name": "Biolysis",
+              "type": "1"
+            },
+            {
+              "gameID": 7518,
+              "name": "Acceleration",
+              "type": "1"
+            },
+            {
+              "gameID": 1001238,
+              "name": "Acceleration",
+              "type": "1"
+            },
+            {
+              "gameID": 1003877,
+              "name": "Grand Impact Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 136,
+              "name": "Presence of Mind",
+              "type": "1"
+            },
+            {
+              "gameID": 34665,
+              "name": "Wing Motif",
+              "type": "1"
+            },
+            {
+              "gameID": 1003879,
+              "name": "Sacred Sight",
+              "type": "1"
+            },
+            {
+              "gameID": 20,
+              "name": "Fight or Flight",
+              "type": "1"
+            },
+            {
+              "gameID": 1003847,
+              "name": "Goring Blade Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 3547,
+              "name": "The Forbidden Chakra",
+              "type": "128"
+            },
+            {
+              "gameID": 500000,
+              "name": "Combined DoTs",
+              "type": "1"
+            },
+            {
+              "gameID": 1001895,
+              "name": "Biolysis",
+              "type": "64"
+            },
+            {
+              "gameID": 1001871,
+              "name": "Dia",
+              "type": "64"
+            },
+            {
+              "gameID": 1000157,
+              "name": "Presence of Mind",
+              "type": "1"
+            },
+            {
+              "gameID": 34603669,
+              "name": "Grade 4 Gemdraught of Intelligence [HQ]",
+              "type": "1"
+            },
+            {
+              "gameID": 1000076,
+              "name": "Fight or Flight",
+              "type": "1"
+            },
+            {
+              "gameID": 23,
+              "name": "Circle of Scorn",
+              "type": "128"
+            },
+            {
+              "gameID": 7406,
+              "name": "Caustic Bite",
+              "type": "128"
+            },
+            {
+              "gameID": 36945,
+              "name": "Leaping Opo",
+              "type": "128"
+            },
+            {
+              "gameID": 37,
+              "name": "Maim",
+              "type": "128"
+            },
+            {
+              "gameID": 1000049,
+              "name": "Medicated",
+              "type": "1"
+            },
+            {
+              "gameID": 36975,
+              "name": "Heartbreak Shot",
+              "type": "128"
+            },
+            {
+              "gameID": 25766,
+              "name": "Riddle of Wind",
+              "type": "1"
+            },
+            {
+              "gameID": 1002687,
+              "name": "Riddle of Wind",
+              "type": "1"
+            },
+            {
+              "gameID": 1003842,
+              "name": "Wind's Rumination",
+              "type": "1"
+            },
+            {
+              "gameID": 15,
+              "name": "Riot Blade",
+              "type": "128"
+            },
+            {
+              "gameID": 1000248,
+              "name": "Circle of Scorn",
+              "type": "1"
+            },
+            {
+              "gameID": 1001200,
+              "name": "Caustic Bite",
+              "type": "1"
+            },
+            {
+              "gameID": 101,
+              "name": "Raging Strikes",
+              "type": "1"
+            },
+            {
+              "gameID": 7521,
+              "name": "Manafication",
+              "type": "1"
+            },
+            {
+              "gameID": 1001971,
+              "name": "Manafication",
+              "type": "1"
+            },
+            {
+              "gameID": 1003875,
+              "name": "Magicked Swordplay",
+              "type": "1"
+            },
+            {
+              "gameID": 1003878,
+              "name": "Prefulgence Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 25747,
+              "name": "Expiacion",
+              "type": "128"
+            },
+            {
+              "gameID": 7389,
+              "name": "Inner Release",
+              "type": "1"
+            },
+            {
+              "gameID": 1001177,
+              "name": "Inner Release",
+              "type": "1"
+            },
+            {
+              "gameID": 1002624,
+              "name": "Primal Rend Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 1002663,
+              "name": "Inner Strength",
+              "type": "1"
+            },
+            {
+              "gameID": 1000125,
+              "name": "Raging Strikes",
+              "type": "1"
+            },
+            {
+              "gameID": 7562,
+              "name": "Lucid Dreaming",
+              "type": "1"
+            },
+            {
+              "gameID": 34675,
+              "name": "Starry Muse",
+              "type": "1"
+            },
+            {
+              "gameID": 1003685,
+              "name": "Starry Muse",
+              "type": "1"
+            },
+            {
+              "gameID": 1003681,
+              "name": "Starstruck",
+              "type": "1"
+            },
+            {
+              "gameID": 7520,
+              "name": "Embolden",
+              "type": "1"
+            },
+            {
+              "gameID": 1003876,
+              "name": "Thorned Flourish",
+              "type": "1"
+            },
+            {
+              "gameID": 7409,
+              "name": "Refulgent Arrow",
+              "type": "128"
+            },
+            {
+              "gameID": 7396,
+              "name": "Brotherhood",
+              "type": "1"
+            },
+            {
+              "gameID": 1001204,
+              "name": "Lucid Dreaming",
+              "type": "1"
+            },
+            {
+              "gameID": 45,
+              "name": "Storm's Eye",
+              "type": "128"
+            },
+            {
+              "gameID": 1002677,
+              "name": "Surging Tempest",
+              "type": "1"
+            },
+            {
+              "gameID": 1003690,
+              "name": "Subtractive Spectrum",
+              "type": "1"
+            },
+            {
+              "gameID": 1003688,
+              "name": "Hyperphantasia",
+              "type": "1"
+            },
+            {
+              "gameID": 7436,
+              "name": "Chain Stratagem",
+              "type": "1"
+            },
+            {
+              "gameID": 1003882,
+              "name": "Impact Imminent",
+              "type": "1"
+            },
+            {
+              "gameID": 1003689,
+              "name": "Inspiration",
+              "type": "1"
+            },
+            {
+              "gameID": 1001239,
+              "name": "Embolden",
+              "type": "1"
+            },
+            {
+              "gameID": 1001297,
+              "name": "Embolden",
+              "type": "1"
+            },
+            {
+              "gameID": 118,
+              "name": "Battle Voice",
+              "type": "1"
+            },
+            {
+              "gameID": 34678,
+              "name": "Hammer Stamp",
+              "type": "1024"
+            },
+            {
+              "gameID": 7395,
+              "name": "Riddle of Fire",
+              "type": "1"
+            },
+            {
+              "gameID": 1001181,
+              "name": "Riddle of Fire",
+              "type": "1"
+            },
+            {
+              "gameID": 1003843,
+              "name": "Fire's Rumination",
+              "type": "1"
+            },
+            {
+              "gameID": 45960,
+              "name": "Enchanted Riposte",
+              "type": "1024"
+            },
+            {
+              "gameID": 7387,
+              "name": "Upheaval",
+              "type": "128"
+            },
+            {
+              "gameID": 3539,
+              "name": "Royal Authority",
+              "type": "128"
+            },
+            {
+              "gameID": 1001902,
+              "name": "Atonement Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 1002673,
+              "name": "Divine Might",
+              "type": "1"
+            },
+            {
+              "gameID": 1001182,
+              "name": "Meditative Brotherhood",
+              "type": "1"
+            },
+            {
+              "gameID": 1001185,
+              "name": "Brotherhood",
+              "type": "1"
+            },
+            {
+              "gameID": 1001221,
+              "name": "Chain Stratagem",
+              "type": "1"
+            },
+            {
+              "gameID": 1000141,
+              "name": "Battle Voice",
+              "type": "1"
+            },
+            {
+              "gameID": 25785,
+              "name": "Radiant Finale",
+              "type": "1"
+            },
+            {
+              "gameID": 1003863,
+              "name": "Radiant Encore Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 34671,
+              "name": "Winged Muse",
+              "type": "1024"
+            },
+            {
+              "gameID": 7517,
+              "name": "Fleche",
+              "type": "128"
+            },
+            {
+              "gameID": 7386,
+              "name": "Onslaught",
+              "type": "128"
+            },
+            {
+              "gameID": 36921,
+              "name": "Imperator",
+              "type": "1024"
+            },
+            {
+              "gameID": 1001368,
+              "name": "Requiescat",
+              "type": "1"
+            },
+            {
+              "gameID": 1003019,
+              "name": "Confiteor Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 1002964,
+              "name": "Radiant Finale",
+              "type": "1"
+            },
+            {
+              "gameID": 1002722,
+              "name": "Radiant Finale",
+              "type": "1"
+            },
+            {
+              "gameID": 34683,
+              "name": "Subtractive Palette",
+              "type": "1"
+            },
+            {
+              "gameID": 1003674,
+              "name": "Subtractive Palette",
+              "type": "1"
+            },
+            {
+              "gameID": 1003691,
+              "name": "Monochrome Tones",
+              "type": "1"
+            },
+            {
+              "gameID": 40148,
+              "name": "Cyclonic Break",
+              "type": "1"
+            },
+            {
+              "gameID": 3569,
+              "name": "Asylum",
+              "type": "8"
+            },
+            {
+              "gameID": 45961,
+              "name": "Enchanted Zwerchhau",
+              "type": "1024"
+            },
+            {
+              "gameID": 36977,
+              "name": "Radiant Encore",
+              "type": "128"
+            },
+            {
+              "gameID": 28,
+              "name": "Iron Will",
+              "type": "1"
+            },
+            {
+              "gameID": 1000079,
+              "name": "Iron Will",
+              "type": "1"
+            },
+            {
+              "gameID": 167,
+              "name": "Energy Drain",
+              "type": "1024"
+            },
+            {
+              "gameID": 16465,
+              "name": "Inner Chaos",
+              "type": "128"
+            },
+            {
+              "gameID": 1001911,
+              "name": "Asylum",
+              "type": "8"
+            },
+            {
+              "gameID": 1001912,
+              "name": "Asylum",
+              "type": "1"
+            },
+            {
+              "gameID": 7519,
+              "name": "Contre Sixte",
+              "type": "128"
+            },
+            {
+              "gameID": 34653,
+              "name": "Blizzard in Cyan",
+              "type": "1024"
+            },
+            {
+              "gameID": 107,
+              "name": "Barrage",
+              "type": "1"
+            },
+            {
+              "gameID": 1000128,
+              "name": "Barrage",
+              "type": "1"
+            },
+            {
+              "gameID": 1003862,
+              "name": "Resonant Arrow Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 3538,
+              "name": "Goring Blade",
+              "type": "128"
+            },
+            {
+              "gameID": 36949,
+              "name": "Wind's Reply",
+              "type": "128"
+            },
+            {
+              "gameID": 3562,
+              "name": "Sidewinder",
+              "type": "128"
+            },
+            {
+              "gameID": 45962,
+              "name": "Enchanted Redoublement",
+              "type": "1024"
+            },
+            {
+              "gameID": 1003675,
+              "name": "Aetherhues",
+              "type": "1"
+            },
+            {
+              "gameID": 7506,
+              "name": "Corps-a-Corps",
+              "type": "128"
+            },
+            {
+              "gameID": 3549,
+              "name": "Fell Cleave",
+              "type": "128"
+            },
+            {
+              "gameID": 1003833,
+              "name": "Burgeoning Fury",
+              "type": "1"
+            },
+            {
+              "gameID": 16527,
+              "name": "Engagement",
+              "type": "128"
+            },
+            {
+              "gameID": 188,
+              "name": "Sacred Soil",
+              "type": "8"
+            },
+            {
+              "gameID": 36948,
+              "name": "Elixir Burst",
+              "type": "128"
+            },
+            {
+              "gameID": 7405,
+              "name": "Troubadour",
+              "type": "1"
+            },
+            {
+              "gameID": 34654,
+              "name": "Stone in Yellow",
+              "type": "1024"
+            },
+            {
+              "gameID": 1001944,
+              "name": "Sacred Soil",
+              "type": "8"
+            },
+            {
+              "gameID": 1000299,
+              "name": "Sacred Soil",
+              "type": "1"
+            },
+            {
+              "gameID": 16459,
+              "name": "Confiteor",
+              "type": "1024"
+            },
+            {
+              "gameID": 7525,
+              "name": "Verflare",
+              "type": "1024"
+            },
+            {
+              "gameID": 1001234,
+              "name": "Verfire Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 1001934,
+              "name": "Troubadour",
+              "type": "1"
+            },
+            {
+              "gameID": 7404,
+              "name": "Pitch Perfect",
+              "type": "128"
+            },
+            {
+              "gameID": 1003676,
+              "name": "Aetherhues II",
+              "type": "1"
+            },
+            {
+              "gameID": 7560,
+              "name": "Addle",
+              "type": "1"
+            },
+            {
+              "gameID": 36976,
+              "name": "Resonant Arrow",
+              "type": "128"
+            },
+            {
+              "gameID": 1001203,
+              "name": "Addle",
+              "type": "1"
+            },
+            {
+              "gameID": 34655,
+              "name": "Thunder in Magenta",
+              "type": "1024"
+            },
+            {
+              "gameID": 25748,
+              "name": "Blade of Faith",
+              "type": "1024"
+            },
+            {
+              "gameID": 16530,
+              "name": "Scorch",
+              "type": "1024"
+            },
+            {
+              "gameID": 16535,
+              "name": "Afflatus Misery",
+              "type": "1024"
+            },
+            {
+              "gameID": 36923,
+              "name": "Damnation",
+              "type": "1"
+            },
+            {
+              "gameID": 40145,
+              "name": "Cyclonic Break",
+              "type": "128"
+            },
+            {
+              "gameID": 1002940,
+              "name": "Physical Vulnerability Up",
+              "type": "1"
+            },
+            {
+              "gameID": 36950,
+              "name": "Fire's Reply",
+              "type": "128"
+            },
+            {
+              "gameID": 1003832,
+              "name": "Damnation",
+              "type": "128"
+            },
+            {
+              "gameID": 1003900,
+              "name": "Primeval Impulse",
+              "type": "8"
+            },
+            {
+              "gameID": 16495,
+              "name": "Burst Shot",
+              "type": "128"
+            },
+            {
+              "gameID": 166,
+              "name": "Aetherflow",
+              "type": "1"
+            },
+            {
+              "gameID": 37005,
+              "name": "Vice of Thorns",
+              "type": "1024"
+            },
+            {
+              "gameID": 1003901,
+              "name": "Wrathful",
+              "type": "1"
+            },
+            {
+              "gameID": 500001,
+              "name": "Combined HoTs",
+              "type": "8"
+            },
+            {
+              "gameID": 34681,
+              "name": "Star Prism",
+              "type": "1024"
+            },
+            {
+              "gameID": 37009,
+              "name": "Glare IV",
+              "type": "1024"
+            },
+            {
+              "gameID": 36924,
+              "name": "Primal Wrath",
+              "type": "128"
+            },
+            {
+              "gameID": 25749,
+              "name": "Blade of Truth",
+              "type": "1024"
+            },
+            {
+              "gameID": 25858,
+              "name": "Resolution",
+              "type": "1024"
+            },
+            {
+              "gameID": 40146,
+              "name": "Cyclonic Break",
+              "type": "1"
+            },
+            {
+              "gameID": 40149,
+              "name": "Sinsmite",
+              "type": "1024"
+            },
+            {
+              "gameID": 34676,
+              "name": "Mog of the Ages",
+              "type": "1024"
+            },
+            {
+              "gameID": 1002941,
+              "name": "Magic Vulnerability Up",
+              "type": "1"
+            },
+            {
+              "gameID": 34682,
+              "name": "Star Prism",
+              "type": "8"
+            },
+            {
+              "gameID": 37007,
+              "name": "Prefulgence",
+              "type": "1024"
+            },
+            {
+              "gameID": 34663,
+              "name": "Comet in Black",
+              "type": "1024"
+            },
+            {
+              "gameID": 1003679,
+              "name": "Rainbow Bright",
+              "type": "1"
+            },
+            {
+              "gameID": 17870,
+              "name": "Ruin II",
+              "type": "1024"
+            },
+            {
+              "gameID": 25750,
+              "name": "Blade of Valor",
+              "type": "1024"
+            },
+            {
+              "gameID": 1003831,
+              "name": "Blade of Honor Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 3571,
+              "name": "Assize",
+              "type": "1024"
+            },
+            {
+              "gameID": 37006,
+              "name": "Grand Impact",
+              "type": "1024"
+            },
+            {
+              "gameID": 40168,
+              "name": "Powder Mark Trail",
+              "type": "1024"
+            },
+            {
+              "gameID": 7531,
+              "name": "Rampart",
+              "type": "1"
+            },
+            {
+              "gameID": 36922,
+              "name": "Blade of Honor",
+              "type": "1024"
+            },
+            {
+              "gameID": 37012,
+              "name": "Baneful Impaction",
+              "type": "1"
+            },
+            {
+              "gameID": 1001191,
+              "name": "Rampart",
+              "type": "1"
+            },
+            {
+              "gameID": 34679,
+              "name": "Hammer Brush",
+              "type": "1024"
+            },
+            {
+              "gameID": 25753,
+              "name": "Primal Rend",
+              "type": "128"
+            },
+            {
+              "gameID": 1003834,
+              "name": "Primal Ruination Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 1003883,
+              "name": "Baneful Impaction",
+              "type": "64"
+            },
+            {
+              "gameID": 7511,
+              "name": "Verstone",
+              "type": "1024"
+            },
+            {
+              "gameID": 40,
+              "name": "Thrill of Battle",
+              "type": "8"
+            },
+            {
+              "gameID": 1000087,
+              "name": "Thrill of Battle",
+              "type": "1"
+            },
+            {
+              "gameID": 34680,
+              "name": "Polishing Hammer",
+              "type": "1024"
+            },
+            {
+              "gameID": 36925,
+              "name": "Primal Ruination",
+              "type": "128"
+            },
+            {
+              "gameID": 7382,
+              "name": "Intervention",
+              "type": "1"
+            },
+            {
+              "gameID": 7537,
+              "name": "Shirk",
+              "type": "1"
+            },
+            {
+              "gameID": 1001174,
+              "name": "Intervention",
+              "type": "1"
+            },
+            {
+              "gameID": 1002675,
+              "name": "Knight's Resolve",
+              "type": "1"
+            },
+            {
+              "gameID": 1002676,
+              "name": "Knight's Benediction",
+              "type": "8"
+            },
+            {
+              "gameID": 16460,
+              "name": "Atonement",
+              "type": "128"
+            },
+            {
+              "gameID": 1003827,
+              "name": "Supplication Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 1004166,
+              "name": "Powder Mark Trail",
+              "type": "1"
+            },
+            {
+              "gameID": 16542,
+              "name": "Recitation",
+              "type": "1"
+            },
+            {
+              "gameID": 1001896,
+              "name": "Recitation",
+              "type": "1"
+            },
+            {
+              "gameID": 7510,
+              "name": "Verfire",
+              "type": "1024"
+            },
+            {
+              "gameID": 3552,
+              "name": "Equilibrium",
+              "type": "8"
+            },
+            {
+              "gameID": 36918,
+              "name": "Supplication",
+              "type": "128"
+            },
+            {
+              "gameID": 1003828,
+              "name": "Sepulchre Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 1002681,
+              "name": "Equilibrium",
+              "type": "8"
+            },
+            {
+              "gameID": 25867,
+              "name": "Protraction",
+              "type": "8"
+            },
+            {
+              "gameID": 34662,
+              "name": "Holy in White",
+              "type": "1024"
+            },
+            {
+              "gameID": 1002710,
+              "name": "Protraction",
+              "type": "1"
+            },
+            {
+              "gameID": 40173,
+              "name": "unknown_9ced",
+              "type": "1"
+            },
+            {
+              "gameID": 61,
+              "name": "Twin Snakes",
+              "type": "128"
+            },
+            {
+              "gameID": 1000109,
+              "name": "Coeurl Form",
+              "type": "1"
+            },
+            {
+              "gameID": 1001918,
+              "name": "Catalyze",
+              "type": "8"
+            },
+            {
+              "gameID": 3585,
+              "name": "Deployment Tactics",
+              "type": "1"
+            },
+            {
+              "gameID": 66,
+              "name": "Demolish",
+              "type": "128"
+            },
+            {
+              "gameID": 1000107,
+              "name": "Opo-Opo Form",
+              "type": "1"
+            },
+            {
+              "gameID": 42,
+              "name": "Storm's Path",
+              "type": "128"
+            },
+            {
+              "gameID": 7561,
+              "name": "Swiftcast",
+              "type": "1"
+            },
+            {
+              "gameID": 1000167,
+              "name": "Swiftcast",
+              "type": "1"
+            },
+            {
+              "gameID": 40154,
+              "name": "Utopian Sky",
+              "type": "1"
+            },
+            {
+              "gameID": 36919,
+              "name": "Sepulchre",
+              "type": "128"
+            },
+            {
+              "gameID": 16476,
+              "name": "Six-Sided Star",
+              "type": "128"
+            },
+            {
+              "gameID": 1002514,
+              "name": "Six-Sided Star",
+              "type": "1"
+            },
+            {
+              "gameID": 7432,
+              "name": "Divine Benison",
+              "type": "1"
+            },
+            {
+              "gameID": 36920,
+              "name": "Guardian",
+              "type": "1"
+            },
+            {
+              "gameID": 1003829,
+              "name": "Guardian",
+              "type": "1"
+            },
+            {
+              "gameID": 1003830,
+              "name": "Guardian's Will",
+              "type": "8"
+            },
+            {
+              "gameID": 25861,
+              "name": "Aquaveil",
+              "type": "1"
+            },
+            {
+              "gameID": 25751,
+              "name": "Bloodwhetting",
+              "type": "1"
+            },
+            {
+              "gameID": 1001218,
+              "name": "Divine Benison",
+              "type": "8"
+            },
+            {
+              "gameID": 22,
+              "name": "Bulwark",
+              "type": "1"
+            },
+            {
+              "gameID": 1000077,
+              "name": "Bulwark",
+              "type": "1"
+            },
+            {
+              "gameID": 1002679,
+              "name": "Stem the Flow",
+              "type": "1"
+            },
+            {
+              "gameID": 1002680,
+              "name": "Stem the Tide",
+              "type": "8"
+            },
+            {
+              "gameID": 1002678,
+              "name": "Bloodwhetting",
+              "type": "8"
+            },
+            {
+              "gameID": 1002708,
+              "name": "Aquaveil",
+              "type": "1"
+            },
+            {
+              "gameID": 1001621,
+              "name": "Concealed",
+              "type": "1"
+            },
+            {
+              "gameID": 34666,
+              "name": "Claw Motif",
+              "type": "1"
+            },
+            {
+              "gameID": 40158,
+              "name": "Blasting Zone",
+              "type": "1"
+            },
+            {
+              "gameID": 40169,
+              "name": "Burn Mark",
+              "type": "1024"
+            },
+            {
+              "gameID": 32065,
+              "name": "Release Iron Will",
+              "type": "1"
+            },
+            {
+              "gameID": 114,
+              "name": "Mage's Ballad",
+              "type": "1"
+            },
+            {
+              "gameID": 1002217,
+              "name": "Mage's Ballad",
+              "type": "1"
+            },
+            {
+              "gameID": 16545,
+              "name": "Summon Seraph",
+              "type": "1"
+            },
+            {
+              "gameID": 34668,
+              "name": "Hammer Motif",
+              "type": "1"
+            },
+            {
+              "gameID": 7394,
+              "name": "Riddle of Earth",
+              "type": "1"
+            },
+            {
+              "gameID": 1001179,
+              "name": "Riddle of Earth",
+              "type": "1"
+            },
+            {
+              "gameID": 1003841,
+              "name": "Earth's Rumination",
+              "type": "1"
+            },
+            {
+              "gameID": 40330,
+              "name": "Cyclonic Break",
+              "type": "1"
+            },
+            {
+              "gameID": 40157,
+              "name": "Blasting Zone",
+              "type": "1"
+            },
+            {
+              "gameID": 40159,
+              "name": "Sinbound Fire III",
+              "type": "1024"
+            },
+            {
+              "gameID": 34684,
+              "name": "Smudge",
+              "type": "1"
+            },
+            {
+              "gameID": 1003684,
+              "name": "Smudge",
+              "type": "1"
+            },
+            {
+              "gameID": 1001180,
+              "name": "Earth's Resolve",
+              "type": "8"
+            },
+            {
+              "gameID": 16548,
+              "name": "Seraphic Veil",
+              "type": "8"
+            },
+            {
+              "gameID": 1001917,
+              "name": "Seraphic Veil",
+              "type": "8"
+            },
+            {
+              "gameID": 1001965,
+              "name": "Summon Order III",
+              "type": "1"
+            },
+            {
+              "gameID": 16546,
+              "name": "Consolation",
+              "type": "1"
+            },
+            {
+              "gameID": 25857,
+              "name": "Magick Barrier",
+              "type": "1"
+            },
+            {
+              "gameID": 1002707,
+              "name": "Magick Barrier",
+              "type": "1"
+            },
+            {
+              "gameID": 16547,
+              "name": "Consolation",
+              "type": "8"
+            },
+            {
+              "gameID": 36944,
+              "name": "Earth's Reply",
+              "type": "8"
+            },
+            {
+              "gameID": 7433,
+              "name": "Plenary Indulgence",
+              "type": "1"
+            },
+            {
+              "gameID": 7541,
+              "name": "Second Wind",
+              "type": "8"
+            },
+            {
+              "gameID": 1001219,
+              "name": "Confession",
+              "type": "8"
+            },
+            {
+              "gameID": 37010,
+              "name": "Medica III",
+              "type": "8"
+            },
+            {
+              "gameID": 40151,
+              "name": "Turn of the Heavens",
+              "type": "1"
+            },
+            {
+              "gameID": 40163,
+              "name": "Burnt Strike",
+              "type": "1"
+            },
+            {
+              "gameID": 40164,
+              "name": "Burnout",
+              "type": "1"
+            },
+            {
+              "gameID": 1003880,
+              "name": "Medica III",
+              "type": "8"
+            },
+            {
+              "gameID": 40161,
+              "name": "Burnt Strike",
+              "type": "1"
+            },
+            {
+              "gameID": 40162,
+              "name": "Blastburn",
+              "type": "1"
+            },
+            {
+              "gameID": 137,
+              "name": "Regen",
+              "type": "1"
+            },
+            {
+              "gameID": 1000158,
+              "name": "Regen",
+              "type": "8"
+            },
+            {
+              "gameID": 7535,
+              "name": "Reprisal",
+              "type": "1"
+            },
+            {
+              "gameID": 1001193,
+              "name": "Reprisal",
+              "type": "1"
+            },
+            {
+              "gameID": 37004,
+              "name": "Jolt III",
+              "type": "1024"
+            },
+            {
+              "gameID": 16464,
+              "name": "Nascent Flash",
+              "type": "1"
+            },
+            {
+              "gameID": 1001858,
+              "name": "Nascent Glint",
+              "type": "8"
+            },
+            {
+              "gameID": 1001857,
+              "name": "Nascent Flash",
+              "type": "8"
+            },
+            {
+              "gameID": 34669,
+              "name": "Starry Sky Motif",
+              "type": "1"
+            },
+            {
+              "gameID": 40329,
+              "name": "Cyclonic Break",
+              "type": "1"
+            },
+            {
+              "gameID": 34685,
+              "name": "Tempera Coat",
+              "type": "1"
+            },
+            {
+              "gameID": 1003686,
+              "name": "Tempera Coat",
+              "type": "8"
+            },
+            {
+              "gameID": 34686,
+              "name": "Tempera Grassa",
+              "type": "1"
+            },
+            {
+              "gameID": 1003687,
+              "name": "Tempera Grassa",
+              "type": "8"
+            },
+            {
+              "gameID": 40147,
+              "name": "Sinsmoke",
+              "type": "1024"
+            },
+            {
+              "gameID": 16534,
+              "name": "Afflatus Rapture",
+              "type": "8"
+            },
+            {
+              "gameID": 25767,
+              "name": "Shadow of the Destroyer",
+              "type": "1"
+            },
+            {
+              "gameID": 16473,
+              "name": "Four-Point Fury",
+              "type": "1"
+            },
+            {
+              "gameID": 1001051,
+              "name": "Prey",
+              "type": "1"
+            },
+            {
+              "gameID": 1004165,
+              "name": "Fated Burn Mark",
+              "type": "1"
+            },
+            {
+              "gameID": 40165,
+              "name": "Bound of Faith",
+              "type": "1"
+            },
+            {
+              "gameID": 40153,
+              "name": "Brightfire",
+              "type": "1"
+            },
+            {
+              "gameID": 40152,
+              "name": "Brightfire",
+              "type": "1"
+            },
+            {
+              "gameID": 25868,
+              "name": "Expedient",
+              "type": "1"
+            },
+            {
+              "gameID": 1002711,
+              "name": "Desperate Measures",
+              "type": "1"
+            },
+            {
+              "gameID": 1002712,
+              "name": "Expedience",
+              "type": "1"
+            },
+            {
+              "gameID": 70,
+              "name": "Rockbreaker",
+              "type": "1"
+            },
+            {
+              "gameID": 16536,
+              "name": "Temperance",
+              "type": "1"
+            },
+            {
+              "gameID": 1003881,
+              "name": "Divine Grace",
+              "type": "1"
+            },
+            {
+              "gameID": 1001873,
+              "name": "Temperance",
+              "type": "1"
+            },
+            {
+              "gameID": 1001872,
+              "name": "Temperance",
+              "type": "1"
+            },
+            {
+              "gameID": 40171,
+              "name": "Floating Fetters",
+              "type": "1"
+            },
+            {
+              "gameID": 1002304,
+              "name": "Floating Fetters",
+              "type": "1"
+            },
+            {
+              "gameID": 7514,
+              "name": "Vercure",
+              "type": "8"
+            },
+            {
+              "gameID": 40166,
+              "name": "Solemn Charge",
+              "type": "1"
+            },
+            {
+              "gameID": 40167,
+              "name": "Sinsmoke",
+              "type": "1024"
+            },
+            {
+              "gameID": 16496,
+              "name": "Apex Arrow",
+              "type": "128"
+            },
+            {
+              "gameID": 1002692,
+              "name": "Blast Arrow Ready",
+              "type": "1"
+            },
+            {
+              "gameID": 34672,
+              "name": "Clawed Muse",
+              "type": "1024"
+            },
+            {
+              "gameID": 40170,
+              "name": "Burnished Glory",
+              "type": "1024"
+            },
+            {
+              "gameID": 25768,
+              "name": "Rising Phoenix",
+              "type": "128"
+            },
+            {
+              "gameID": 25784,
+              "name": "Blast Arrow",
+              "type": "128"
+            },
+            {
+              "gameID": 7549,
+              "name": "Feint",
+              "type": "1"
+            },
+            {
+              "gameID": 1001195,
+              "name": "Feint",
+              "type": "1"
+            },
+            {
+              "gameID": 7385,
+              "name": "Passage of Arms",
+              "type": "1"
+            },
+            {
+              "gameID": 1001915,
+              "name": "Summon Order",
+              "type": "1"
+            },
+            {
+              "gameID": 16537,
+              "name": "Whispering Dawn",
+              "type": "1"
+            },
+            {
+              "gameID": 803,
+              "name": "Whispering Dawn",
+              "type": "1"
+            },
+            {
+              "gameID": 1001176,
+              "name": "Arms Up",
+              "type": "1"
+            },
+            {
+              "gameID": 1001175,
+              "name": "Passage of Arms",
+              "type": "1"
+            },
+            {
+              "gameID": 1000315,
+              "name": "Whispering Dawn",
+              "type": "8"
+            },
+            {
+              "gameID": 116,
+              "name": "Army's Paeon",
+              "type": "1"
+            },
+            {
+              "gameID": 1002218,
+              "name": "Army's Paeon",
+              "type": "1"
+            },
+            {
+              "gameID": 1002951,
+              "name": "Bleeding",
+              "type": "64"
+            },
+            {
+              "gameID": 34650,
+              "name": "Fire in Red",
+              "type": "1024"
+            },
+            {
+              "gameID": 7408,
+              "name": "Nature's Minne",
+              "type": "1"
+            },
+            {
+              "gameID": 1001202,
+              "name": "Nature's Minne",
+              "type": "1"
+            },
+            {
+              "gameID": 3583,
+              "name": "Indomitability",
+              "type": "8"
+            },
+            {
+              "gameID": 36946,
+              "name": "Rising Raptor",
+              "type": "128"
+            },
+            {
+              "gameID": 34651,
+              "name": "Aero in Green",
+              "type": "1024"
+            },
+            {
+              "gameID": 36947,
+              "name": "Pouncing Coeurl",
+              "type": "128"
+            },
+            {
+              "gameID": 37011,
+              "name": "Divine Caress",
+              "type": "1"
+            },
+            {
+              "gameID": 1003903,
+              "name": "Divine Caress",
+              "type": "8"
+            },
+            {
+              "gameID": 1003904,
+              "name": "Divine Aura",
+              "type": "8"
+            },
+            {
+              "gameID": 34652,
+              "name": "Water in Blue",
+              "type": "1024"
+            },
+            {
+              "gameID": 40137,
+              "name": "Fall of Faith",
+              "type": "1"
+            },
+            {
+              "gameID": 34667,
+              "name": "Maw Motif",
+              "type": "1"
+            },
+            {
+              "gameID": 34673,
+              "name": "Fanged Muse",
+              "type": "1024"
+            },
+            {
+              "gameID": 40140,
+              "name": "Fall of Faith",
+              "type": "1"
+            },
+            {
+              "gameID": 34664,
+              "name": "Pom Motif",
+              "type": "1"
+            },
+            {
+              "gameID": 40172,
+              "name": "unknown_9cec",
+              "type": "1"
+            },
+            {
+              "gameID": 37014,
+              "name": "Seraphism",
+              "type": "1"
+            },
+            {
+              "gameID": 1003884,
+              "name": "Seraphism",
+              "type": "1"
+            },
+            {
+              "gameID": 40138,
+              "name": "Solemn Charge",
+              "type": "1"
+            },
+            {
+              "gameID": 37016,
+              "name": "Accession",
+              "type": "8"
+            },
+            {
+              "gameID": 7546,
+              "name": "True North",
+              "type": "1"
+            },
+            {
+              "gameID": 1001250,
+              "name": "True North",
+              "type": "1"
+            },
+            {
+              "gameID": 40156,
+              "name": "Sinblaze",
+              "type": "1024"
+            },
+            {
+              "gameID": 1003885,
+              "name": "Seraphism",
+              "type": "8"
+            },
+            {
+              "gameID": 1001964,
+              "name": "Summon Order II",
+              "type": "1"
+            },
+            {
+              "gameID": 16538,
+              "name": "Fey Illumination",
+              "type": "1"
+            },
+            {
+              "gameID": 805,
+              "name": "Fey Illumination",
+              "type": "1"
+            },
+            {
+              "gameID": 25862,
+              "name": "Liturgy of the Bell",
+              "type": "1"
+            },
+            {
+              "gameID": 1002709,
+              "name": "Liturgy of the Bell",
+              "type": "1"
+            },
+            {
+              "gameID": 1000317,
+              "name": "Fey Illumination",
+              "type": "1"
+            },
+            {
+              "gameID": 40141,
+              "name": "Solemn Charge",
+              "type": "1"
+            },
+            {
+              "gameID": 40142,
+              "name": "Sinsmite",
+              "type": "1024"
+            },
+            {
+              "gameID": 40143,
+              "name": "Bow Shock",
+              "type": "1024"
+            },
+            {
+              "gameID": 25863,
+              "name": "Liturgy of the Bell",
+              "type": "8"
+            },
+            {
+              "gameID": 7527,
+              "name": "Enchanted Riposte",
+              "type": "1024"
+            },
+            {
+              "gameID": 1001932,
+              "name": "Army's Muse",
+              "type": "1"
+            },
+            {
+              "gameID": 7528,
+              "name": "Enchanted Zwerchhau",
+              "type": "1024"
+            },
+            {
+              "gameID": 7529,
+              "name": "Enchanted Redoublement",
+              "type": "1024"
+            },
+            {
+              "gameID": 3560,
+              "name": "Iron Jaws",
+              "type": "128"
+            },
+            {
+              "gameID": 34677,
+              "name": "Retribution of the Madeen",
+              "type": "1024"
+            },
+            {
+              "gameID": 25769,
+              "name": "Phantom Rush",
+              "type": "128"
+            },
+            {
+              "gameID": 43,
+              "name": "Holmgang",
+              "type": "1"
+            },
+            {
+              "gameID": 1000409,
+              "name": "Holmgang",
+              "type": "8"
+            },
+            {
+              "gameID": 25864,
+              "name": "Liturgy of the Bell",
+              "type": "8"
+            },
+            {
+              "gameID": 40129,
+              "name": "Burnt Strike",
+              "type": "1"
+            },
+            {
+              "gameID": 40131,
+              "name": "Explosion",
+              "type": "1024"
+            },
+            {
+              "gameID": 40124,
+              "name": "Explosion",
+              "type": "1024"
+            },
+            {
+              "gameID": 40130,
+              "name": "Blastburn",
+              "type": "1"
+            },
+            {
+              "gameID": 7526,
+              "name": "Verholy",
+              "type": "1024"
+            },
+            {
+              "gameID": 25746,
+              "name": "Holy Sheltron",
+              "type": "1"
+            },
+            {
+              "gameID": 1002674,
+              "name": "Holy Sheltron",
+              "type": "1"
+            },
+            {
+              "gameID": 16531,
+              "name": "Afflatus Solace",
+              "type": "8"
+            },
+            {
+              "gameID": 40128,
+              "name": "Burnished Glory",
+              "type": "1"
+            },
+            {
+              "gameID": 7430,
+              "name": "Thin Air",
+              "type": "1"
+            },
+            {
+              "gameID": 1001217,
+              "name": "Thin Air",
+              "type": "1"
+            },
+            {
+              "gameID": 32066,
+              "name": "Release Defiance",
+              "type": "1"
+            },
+            {
+              "gameID": 40191,
+              "name": "Quadruple Slap",
+              "type": "128"
+            },
+            {
+              "gameID": 30,
+              "name": "Hallowed Ground",
+              "type": "1"
+            },
+            {
+              "gameID": 1000082,
+              "name": "Hallowed Ground",
+              "type": "1"
+            },
+            {
+              "gameID": 1004162,
+              "name": "Physical Vulnerability Up",
+              "type": "8"
+            },
+            {
+              "gameID": 3561,
+              "name": "The Warden's Paean",
+              "type": "1"
+            },
+            {
+              "gameID": 40192,
+              "name": "Quadruple Slap",
+              "type": "128"
+            },
+            {
+              "gameID": 40176,
+              "name": "攻撃",
+              "type": "128"
+            },
+            {
+              "gameID": 40175,
+              "name": "unknown_9cef",
+              "type": "1"
+            },
+            {
+              "gameID": 40180,
+              "name": "Mirror Image",
+              "type": "1"
+            },
+            {
+              "gameID": 40197,
+              "name": "Diamond Dust",
+              "type": "1024"
+            },
+            {
+              "gameID": 40198,
+              "name": "Icicle Impact",
+              "type": "1"
+            },
+            {
+              "gameID": 40202,
+              "name": "Axe Kick",
+              "type": "1"
+            },
+            {
+              "gameID": 40206,
+              "name": "The House of Light",
+              "type": "1024"
+            },
+            {
+              "gameID": 40199,
+              "name": "Frigid Stone",
+              "type": "1024"
+            },
+            {
+              "gameID": 40201,
+              "name": "Frigid Needle",
+              "type": "1024"
+            },
+            {
+              "gameID": 40200,
+              "name": "Frigid Needle",
+              "type": "1"
+            },
+            {
+              "gameID": 40208,
+              "name": "Sinbound Holy",
+              "type": "1"
+            },
+            {
+              "gameID": 40207,
+              "name": "Heavenly Strike",
+              "type": "1024"
+            },
+            {
+              "gameID": 40209,
+              "name": "Sinbound Holy",
+              "type": "1024"
+            },
+            {
+              "gameID": 1002273,
+              "name": "Unknown_8E1",
+              "type": "1"
+            },
+            {
+              "gameID": 40155,
+              "name": "Utopian Sky",
+              "type": "1"
+            },
+            {
+              "gameID": 40160,
+              "name": "Sinbound Thunder III",
+              "type": "1024"
+            },
+            {
+              "gameID": 40150,
+              "name": "Turn of the Heavens",
+              "type": "1"
+            },
+            {
+              "gameID": 7388,
+              "name": "Shake It Off",
+              "type": "8"
+            },
+            {
+              "gameID": 1001457,
+              "name": "Shake It Off",
+              "type": "8"
+            },
+            {
+              "gameID": 1002108,
+              "name": "Shake It Off (Over Time)",
+              "type": "8"
+            },
+            {
+              "gameID": 40133,
+              "name": "Burnt Strike",
+              "type": "1"
+            },
+            {
+              "gameID": 40126,
+              "name": "Explosion",
+              "type": "1024"
+            },
+            {
+              "gameID": 40125,
+              "name": "Explosion",
+              "type": "1024"
+            },
+            {
+              "gameID": 40135,
+              "name": "Explosion",
+              "type": "1024"
+            },
+            {
+              "gameID": 40134,
+              "name": "Burnout",
+              "type": "1"
+            },
+            {
+              "gameID": 40203,
+              "name": "Scythe Kick",
+              "type": "1"
+            },
+            {
+              "gameID": 40185,
+              "name": "Shining Armor",
+              "type": "32"
+            },
+            {
+              "gameID": 40184,
+              "name": "Frost Armor",
+              "type": "1"
+            },
+            {
+              "gameID": 1000911,
+              "name": "Thin Ice",
+              "type": "1"
+            },
+            {
+              "gameID": 40193,
+              "name": "Twin Stillness",
+              "type": "1"
+            },
+            {
+              "gameID": 40196,
+              "name": "Twin Stillness",
+              "type": "1"
+            },
+            {
+              "gameID": 40210,
+              "name": "Hallowed Ray",
+              "type": "1"
+            },
+            {
+              "gameID": 40211,
+              "name": "Hallowed Ray",
+              "type": "1024"
+            },
+            {
+              "gameID": 40179,
+              "name": "Mirror, Mirror",
+              "type": "1"
+            },
+            {
+              "gameID": 40204,
+              "name": "Reflected Scythe Kick",
+              "type": "1"
+            },
+            {
+              "gameID": 40205,
+              "name": "Reflected Scythe Kick",
+              "type": "1"
+            },
+            {
+              "gameID": 37008,
+              "name": "Aetherial Shift",
+              "type": "1"
+            },
+            {
+              "gameID": 16550,
+              "name": "Angel's Whisper",
+              "type": "1"
+            },
+            {
+              "gameID": 1001874,
+              "name": "Angel's Whisper",
+              "type": "8"
+            },
+            {
+              "gameID": 40220,
+              "name": "Banish III",
+              "type": "1"
+            },
+            {
+              "gameID": 40222,
+              "name": "Banish III",
+              "type": "1024"
+            },
+            {
+              "gameID": 40212,
+              "name": "Light Rampant",
+              "type": "1024"
+            },
+            {
+              "gameID": 1004157,
+              "name": "Chains of Everlasting Light",
+              "type": "1"
+            },
+            {
+              "gameID": 1004159,
+              "name": "The Weight of Light",
+              "type": "1"
+            },
+            {
+              "gameID": 1002257,
+              "name": "Lightsteeped",
+              "type": "1"
+            },
+            {
+              "gameID": 40218,
+              "name": "Luminous Hammer",
+              "type": "1024"
+            },
+            {
+              "gameID": 1004158,
+              "name": "Curse of Everlasting Light",
+              "type": "1"
+            },
+            {
+              "gameID": 40213,
+              "name": "Bright Hunger",
+              "type": "1024"
+            },
+            {
+              "gameID": 40219,
+              "name": "Burst",
+              "type": "1"
+            },
+            {
+              "gameID": 40217,
+              "name": "Powerful Light",
+              "type": "1024"
+            },
+            {
+              "gameID": 28509,
+              "name": "Liturgy of the Bell",
+              "type": "1"
+            },
+            {
+              "gameID": 40221,
+              "name": "Banish III",
+              "type": "1"
+            },
+            {
+              "gameID": 40223,
+              "name": "Banish III Divided",
+              "type": "1024"
+            },
+            {
+              "gameID": 40189,
+              "name": "The House of Light",
+              "type": "1"
+            },
+            {
+              "gameID": 40188,
+              "name": "The House of Light",
+              "type": "1024"
+            },
+            {
+              "gameID": 40224,
+              "name": "Absolute Zero",
+              "type": "1"
+            },
+            {
+              "gameID": 40333,
+              "name": "Absolute Zero",
+              "type": "1024"
+            },
+            {
+              "gameID": 34603667,
+              "name": "Grade 4 Gemdraught of Dexterity [HQ]",
+              "type": "1"
+            },
+            {
+              "gameID": 34598597,
+              "name": "Grade 2 Gemdraught of Intelligence [HQ]",
+              "type": "1"
+            },
+            {
+              "gameID": 40225,
+              "name": "Swelling Frost",
+              "type": "1"
+            },
+            {
+              "gameID": 34603670,
+              "name": "Grade 4 Gemdraught of Mind [HQ]",
+              "type": "1"
+            },
+            {
+              "gameID": 34603666,
+              "name": "Grade 4 Gemdraught of Strength [HQ]",
+              "type": "1"
+            },
+            {
+              "gameID": 1001150,
+              "name": "Deep Freeze",
+              "type": "1"
+            },
+            {
+              "gameID": 1002056,
+              "name": "Unknown_808",
+              "type": "1"
+            },
+            {
+              "gameID": 1000775,
+              "name": "Invincibility",
+              "type": "1"
+            },
+            {
+              "gameID": 40259,
+              "name": "Endless Ice Age",
+              "type": "1"
+            },
+            {
+              "gameID": 40258,
+              "name": "Sinbound Blizzard III",
+              "type": "1"
+            },
+            {
+              "gameID": 40262,
+              "name": "Sinbound Blizzard III",
+              "type": "1"
+            },
+            {
+              "gameID": 40256,
+              "name": "Hiemal Storm",
+              "type": "1"
+            },
+            {
+              "gameID": 40255,
+              "name": "Hiemal Storm",
+              "type": "1"
+            },
+            {
+              "gameID": 40257,
+              "name": "Hiemal Ray",
+              "type": "1024"
+            },
+            {
+              "gameID": 1002198,
+              "name": "Vulnerability Down",
+              "type": "1"
+            },
+            {
+              "gameID": 40121,
+              "name": "Icecrusher",
+              "type": "32"
+            },
+            {
+              "gameID": 40226,
+              "name": "Junction",
+              "type": "1024"
+            },
+            {
+              "gameID": 40265,
+              "name": "Hell's Judgment",
+              "type": "1"
+            },
+            {
+              "gameID": 131,
+              "name": "Cure III",
+              "type": "8"
+            },
+            {
+              "gameID": 1001966,
+              "name": "Summon Order IV",
+              "type": "1"
+            },
+            {
+              "gameID": 16543,
+              "name": "Fey Blessing",
+              "type": "1"
+            },
+            {
+              "gameID": 40117,
+              "name": "unknown_9cb5",
+              "type": "1"
+            },
+            {
+              "gameID": 16544,
+              "name": "Fey Blessing",
+              "type": "8"
+            },
+            {
+              "gameID": 40266,
+              "name": "Ultimate Relativity",
+              "type": "1024"
+            },
+            {
+              "gameID": 1002462,
+              "name": "Spell-in-Waiting: Dark Blizzard III",
+              "type": "1"
+            },
+            {
+              "gameID": 1002455,
+              "name": "Spell-in-Waiting: Dark Fire III",
+              "type": "1"
+            },
+            {
+              "gameID": 1002464,
+              "name": "Spell-in-Waiting: Return",
+              "type": "1"
+            },
+            {
+              "gameID": 1002454,
+              "name": "Spell-in-Waiting: Unholy Darkness",
+              "type": "1"
+            },
+            {
+              "gameID": 1002461,
+              "name": "Spell-in-Waiting: Dark Water III",
+              "type": "1"
+            },
+            {
+              "gameID": 1002460,
+              "name": "Spell-in-Waiting: Dark Eruption",
+              "type": "1"
+            },
+            {
+              "gameID": 1002456,
+              "name": "Spell-in-Waiting: Shadoweye",
+              "type": "1"
+            },
+            {
+              "gameID": 1002459,
+              "name": "Unknown_99B",
+              "type": "1"
+            },
+            {
+              "gameID": 40293,
+              "name": "Speed",
+              "type": "1"
+            },
+            {
+              "gameID": 40295,
+              "name": "Slow",
+              "type": "1"
+            },
+            {
+              "gameID": 40294,
+              "name": "Quicken",
+              "type": "1"
+            },
+            {
+              "gameID": 40276,
+              "name": "Dark Fire III",
+              "type": "1024"
+            },
+            {
+              "gameID": 40277,
+              "name": "Unholy Darkness",
+              "type": "1024"
+            },
+            {
+              "gameID": 1004383,
+              "name": "Fire Resistance Down II",
+              "type": "1"
+            },
+            {
+              "gameID": 1002970,
+              "name": "Unknown_B9A",
+              "type": "1"
+            },
+            {
+              "gameID": 40291,
+              "name": "Sinbound Meltdown",
+              "type": "1"
+            },
+            {
+              "gameID": 1002452,
+              "name": "Return",
+              "type": "1"
+            },
+            {
+              "gameID": 40235,
+              "name": "Sinbound Meltdown",
+              "type": "1024"
+            },
+            {
+              "gameID": 40292,
+              "name": "Sinbound Meltdown",
+              "type": "1"
+            },
+            {
+              "gameID": 40279,
+              "name": "Dark Blizzard III",
+              "type": "1"
+            },
+            {
+              "gameID": 1004163,
+              "name": "Stun",
+              "type": "1"
+            },
+            {
+              "gameID": 1001933,
+              "name": "Army's Ethos",
+              "type": "1"
+            },
+            {
+              "gameID": 40274,
+              "name": "Dark Eruption",
+              "type": "1024"
+            },
+            {
+              "gameID": 40271,
+              "name": "Dark Water III",
+              "type": "1024"
+            },
+            {
+              "gameID": 40278,
+              "name": "Shadoweye",
+              "type": "32"
+            },
+            {
+              "gameID": 40286,
+              "name": "Shell Crusher",
+              "type": "1"
+            },
+            {
+              "gameID": 40287,
+              "name": "Shell Crusher",
+              "type": "1024"
+            },
+            {
+              "gameID": 40264,
+              "name": "Attack",
+              "type": "1024"
+            },
+            {
+              "gameID": 40282,
+              "name": "Shockwave Pulsar",
+              "type": "1024"
+            },
+            {
+              "gameID": 40290,
+              "name": "Black Halo",
+              "type": "128"
+            },
+            {
+              "gameID": 7437,
+              "name": "Aetherpact",
+              "type": "1"
+            },
+            {
+              "gameID": 7438,
+              "name": "Fey Union",
+              "type": "1"
+            },
+            {
+              "gameID": 1001223,
+              "name": "Fey Union",
+              "type": "8"
+            },
+            {
+              "gameID": 1001222,
+              "name": "Fey Union",
+              "type": "1"
+            },
+            {
+              "gameID": 40269,
+              "name": "Spell-in-Waiting Refrain",
+              "type": "1"
+            },
+            {
+              "gameID": 1004373,
+              "name": "Spell-in-Waiting Refrain",
+              "type": "8"
+            },
+            {
+              "gameID": 40270,
+              "name": "Dark Water III",
+              "type": "1"
+            },
+            {
+              "gameID": 40272,
+              "name": "Dark Water III",
+              "type": "1"
+            },
+            {
+              "gameID": 1002458,
+              "name": "Unknown_99A",
+              "type": "1"
+            },
+            {
+              "gameID": 40296,
+              "name": "Apocalypse",
+              "type": "1"
+            },
+            {
+              "gameID": 40288,
+              "name": "Spirit Taker",
+              "type": "1"
+            },
+            {
+              "gameID": 40289,
+              "name": "Spirit Taker",
+              "type": "128"
+            },
+            {
+              "gameID": 40273,
+              "name": "Dark Eruption",
+              "type": "1"
+            },
+            {
+              "gameID": 40297,
+              "name": "Apocalypse",
+              "type": "1024"
+            },
+            {
+              "gameID": 40181,
+              "name": "Darkest Dance",
+              "type": "1"
+            },
+            {
+              "gameID": 40182,
+              "name": "Darkest Dance",
+              "type": "128"
+            },
+            {
+              "gameID": 40183,
+              "name": "Darkest Dance",
+              "type": "1024"
+            },
+            {
+              "gameID": 40300,
+              "name": "Memory's End",
+              "type": "1"
+            },
+            {
+              "gameID": 40335,
+              "name": "Memory's End",
+              "type": "1024"
+            },
+            {
+              "gameID": 40246,
+              "name": "Materialization",
+              "type": "1"
+            },
+            {
+              "gameID": 40237,
+              "name": "Akh Rhai",
+              "type": "1"
+            },
+            {
+              "gameID": 40186,
+              "name": "Drachen Armor",
+              "type": "1"
+            },
+            {
+              "gameID": 40174,
+              "name": "Edge of Oblivion",
+              "type": "1024"
+            },
+            {
+              "gameID": 40238,
+              "name": "Akh Rhai",
+              "type": "1"
+            },
+            {
+              "gameID": 40177,
+              "name": "攻撃",
+              "type": "1024"
+            },
+            {
+              "gameID": 40178,
+              "name": "攻撃",
+              "type": "1024"
+            },
+            {
+              "gameID": 40301,
+              "name": "Darklit Dragonsong",
+              "type": "1"
+            },
+            {
+              "gameID": 40239,
+              "name": "Darklit Dragonsong",
+              "type": "1024"
+            },
+            {
+              "gameID": 117,
+              "name": "Rain of Death",
+              "type": "128"
+            },
+            {
+              "gameID": 25783,
+              "name": "Ladonsbite",
+              "type": "128"
+            },
+            {
+              "gameID": 1002253,
+              "name": "Refulgent Chain",
+              "type": "1"
+            },
+            {
+              "gameID": 40187,
+              "name": "The Path of Light",
+              "type": "1"
+            },
+            {
+              "gameID": 1002255,
+              "name": "Refulgent Fate",
+              "type": "1"
+            },
+            {
+              "gameID": 16494,
+              "name": "Shadowbite",
+              "type": "128"
+            },
+            {
+              "gameID": 40190,
+              "name": "The Path of Light",
+              "type": "1024"
+            },
+            {
+              "gameID": 46,
+              "name": "Tomahawk",
+              "type": "128"
+            },
+            {
+              "gameID": 40228,
+              "name": "Hallowed Wings",
+              "type": "32"
+            },
+            {
+              "gameID": 40283,
+              "name": "Somber Dance",
+              "type": "1"
+            },
+            {
+              "gameID": 40284,
+              "name": "Somber Dance",
+              "type": "128"
+            },
+            {
+              "gameID": 40285,
+              "name": "Somber Dance",
+              "type": "128"
+            },
+            {
+              "gameID": 140,
+              "name": "Benediction",
+              "type": "8"
+            },
+            {
+              "gameID": 40302,
+              "name": "Akh Morn",
+              "type": "1"
+            },
+            {
+              "gameID": 40247,
+              "name": "Akh Morn",
+              "type": "1"
+            },
+            {
+              "gameID": 25866,
+              "name": "Art of War II",
+              "type": "1024"
+            },
+            {
+              "gameID": 40248,
+              "name": "Akh Morn",
+              "type": "1024"
+            },
+            {
+              "gameID": 40303,
+              "name": "Akh Morn",
+              "type": "1024"
+            },
+            {
+              "gameID": 1004160,
+              "name": "Light's Design",
+              "type": "1"
+            },
+            {
+              "gameID": 1004161,
+              "name": "Darkness's Design",
+              "type": "1"
+            },
+            {
+              "gameID": 40304,
+              "name": "Morn Afah",
+              "type": "1"
+            },
+            {
+              "gameID": 40249,
+              "name": "Morn Afah",
+              "type": "1"
+            },
+            {
+              "gameID": 40250,
+              "name": "Morn Afah",
+              "type": "1024"
+            },
+            {
+              "gameID": 40298,
+              "name": "Crystallize Time",
+              "type": "1024"
+            },
+            {
+              "gameID": 40240,
+              "name": "Crystallize Time",
+              "type": "1"
+            },
+            {
+              "gameID": 1004174,
+              "name": "Spell-in-Waiting: Quietus",
+              "type": "1"
+            },
+            {
+              "gameID": 1003263,
+              "name": "Wyrmclaw",
+              "type": "8"
+            },
+            {
+              "gameID": 1003264,
+              "name": "Wyrmfang",
+              "type": "1"
+            },
+            {
+              "gameID": 1002463,
+              "name": "Spell-in-Waiting: Dark Aero III",
+              "type": "1"
+            },
+            {
+              "gameID": 1004208,
+              "name": "Spell-in-Waiting: Return",
+              "type": "1"
+            },
+            {
+              "gameID": 1004171,
+              "name": "Spell-in-Waiting: Return II",
+              "type": "1"
+            },
+            {
+              "gameID": 40299,
+              "name": "Maelstrom",
+              "type": "32"
+            },
+            {
+              "gameID": 40241,
+              "name": "Longing of the Lost",
+              "type": "1024"
+            },
+            {
+              "gameID": 40280,
+              "name": "Dark Aero III",
+              "type": "1024"
+            },
+            {
+              "gameID": 1004172,
+              "name": "Return II",
+              "type": "1"
+            },
+            {
+              "gameID": 40251,
+              "name": "Tidal Light",
+              "type": "1"
+            },
+            {
+              "gameID": 40252,
+              "name": "Tidal Light",
+              "type": "32"
+            },
+            {
+              "gameID": 40244,
+              "name": "unknown_9d34",
+              "type": "1"
+            },
+            {
+              "gameID": 40253,
+              "name": "Tidal Light",
+              "type": "32"
+            },
+            {
+              "gameID": 1002911,
+              "name": "Damage Down",
+              "type": "1"
+            },
+            {
+              "gameID": 3570,
+              "name": "Tetragrammaton",
+              "type": "8"
+            },
+            {
+              "gameID": 40281,
+              "name": "Quietus",
+              "type": "1024"
+            },
+            {
+              "gameID": 40229,
+              "name": "Hallowed Wings",
+              "type": "1"
+            },
+            {
+              "gameID": 7559,
+              "name": "Surecast",
+              "type": "1"
+            },
+            {
+              "gameID": 1000160,
+              "name": "Surecast",
+              "type": "1"
+            },
+            {
+              "gameID": 7548,
+              "name": "Arm's Length",
+              "type": "1"
+            },
+            {
+              "gameID": 1001209,
+              "name": "Arm's Length",
+              "type": "1"
+            },
+            {
+              "gameID": 40332,
+              "name": "Hallowed Wings",
+              "type": "1024"
+            },
+            {
+              "gameID": 40230,
+              "name": "Hallowed Wings",
+              "type": "1"
+            },
+            {
+              "gameID": 7523,
+              "name": "Verraise",
+              "type": "1"
+            },
+            {
+              "gameID": 1000148,
+              "name": "Raise",
+              "type": "1"
+            },
+            {
+              "gameID": 125,
+              "name": "Raise",
+              "type": "1"
+            },
+            {
+              "gameID": 1000043,
+              "name": "Weakness",
+              "type": "1"
+            },
+            {
+              "gameID": 1000418,
+              "name": "Transcendent",
+              "type": "1"
+            },
+            {
+              "gameID": 173,
+              "name": "Resurrection",
+              "type": "1"
+            },
+            {
+              "gameID": 40231,
+              "name": "unknown_9d27",
+              "type": "1"
+            },
+            {
+              "gameID": 40232,
+              "name": "unknown_9d28",
+              "type": "1"
+            },
+            {
+              "gameID": 1002408,
+              "name": "Down for the Count",
+              "type": "1"
+            },
+            {
+              "gameID": 40114,
+              "name": "Attack",
+              "type": "1"
+            },
+            {
+              "gameID": 40115,
+              "name": "unknown_9cb3",
+              "type": "128"
+            },
+            {
+              "gameID": 40306,
+              "name": "Fulgent Blade",
+              "type": "128"
+            },
+            {
+              "gameID": 40307,
+              "name": "The Path of Light",
+              "type": "1"
+            },
+            {
+              "gameID": 40118,
+              "name": "The Path of Darkness",
+              "type": "1"
+            },
+            {
+              "gameID": 40308,
+              "name": "The Path of Light",
+              "type": "1024"
+            },
+            {
+              "gameID": 40309,
+              "name": "The Path of Darkness",
+              "type": "1024"
+            },
+            {
+              "gameID": 40310,
+              "name": "Akh Morn",
+              "type": "1"
+            },
+            {
+              "gameID": 1003323,
+              "name": "Dark Resistance Down II",
+              "type": "1"
+            },
+            {
+              "gameID": 1004164,
+              "name": "Light Resistance Down II",
+              "type": "1"
+            },
+            {
+              "gameID": 40312,
+              "name": "Akh Morn",
+              "type": "1024"
+            },
+            {
+              "gameID": 40311,
+              "name": "Akh Morn",
+              "type": "1024"
+            },
+            {
+              "gameID": 40319,
+              "name": "Paradise Regained",
+              "type": "1"
+            },
+            {
+              "gameID": 40233,
+              "name": "Wings Dark and Light",
+              "type": "1"
+            },
+            {
+              "gameID": 40320,
+              "name": "Explosion",
+              "type": "1024"
+            },
+            {
+              "gameID": 40315,
+              "name": "Wings Dark and Light",
+              "type": "128"
+            },
+            {
+              "gameID": 39880,
+              "name": "Wings Dark and Light",
+              "type": "1024"
+            },
+            {
+              "gameID": 40314,
+              "name": "Wings Dark and Light",
+              "type": "128"
+            },
+            {
+              "gameID": 39879,
+              "name": "Wings Dark and Light",
+              "type": "1024"
+            },
+            {
+              "gameID": 135,
+              "name": "Cure II",
+              "type": "8"
+            },
+            {
+              "gameID": 40316,
+              "name": "Polarizing Strikes",
+              "type": "1"
+            },
+            {
+              "gameID": 40317,
+              "name": "Cruel Path of Light",
+              "type": "1024"
+            },
+            {
+              "gameID": 40318,
+              "name": "Cruel Path of Darkness",
+              "type": "1024"
+            },
+            {
+              "gameID": 40234,
+              "name": "Polarizing Paths",
+              "type": "1"
+            },
+            {
+              "gameID": 40119,
+              "name": "Cruel Path of Light",
+              "type": "1"
+            },
+            {
+              "gameID": 40120,
+              "name": "Cruel Path of Darkness",
+              "type": "1"
+            },
+            {
+              "gameID": 40326,
+              "name": "Pandora's Box",
+              "type": "1024"
+            },
+            {
+              "gameID": 4240,
+              "name": "Land Waker",
+              "type": "256"
+            },
+            {
+              "gameID": 1000863,
+              "name": "Land Waker",
+              "type": "256"
+            },
+            {
+              "gameID": 40328,
+              "name": "Paradise Lost",
+              "type": "1"
+            },
+            {
+              "gameID": 40327,
+              "name": "Paradise Lost",
+              "type": "1"
+            },
+            {
+              "gameID": 202,
+              "name": "Final Heaven",
+              "type": "256"
+            },
+            {
+              "gameID": 1004209,
+              "name": "Jog",
+              "type": "1"
+            },
+            {
+              "gameID": 40122,
+              "name": "Explosion",
+              "type": "1024"
+            },
+            {
+              "gameID": 40123,
+              "name": "Explosion",
+              "type": "1024"
+            },
+            {
+              "gameID": 1004372,
+              "name": "Mark of Mortality",
+              "type": "1"
+            },
+            {
+              "gameID": 2470,
+              "name": "unknown_9a6",
+              "type": "1"
+            },
+            {
+              "gameID": 40144,
+              "name": "Cyclonic Break",
+              "type": "1"
+            },
+            {
+              "gameID": 40194,
+              "name": "Twin Silence",
+              "type": "1"
+            },
+            {
+              "gameID": 40195,
+              "name": "Twin Silence",
+              "type": "1"
+            },
+            {
+              "gameID": 1003077,
+              "name": "Bleeding",
+              "type": "1"
+            },
+            {
+              "gameID": 1003078,
+              "name": "Bleeding",
+              "type": "1"
+            },
+            {
+              "gameID": 40215,
+              "name": "Refulgent Fate",
+              "type": "1024"
+            },
+            {
+              "gameID": 16525,
+              "name": "Veraero II",
+              "type": "1024"
+            },
+            {
+              "gameID": 40313,
+              "name": "Wings Dark and Light",
+              "type": "1"
+            },
+            {
+              "gameID": 7542,
+              "name": "Bloodbath",
+              "type": "1"
+            },
+            {
+              "gameID": 1000084,
+              "name": "Bloodbath",
+              "type": "8"
+            },
+            {
+              "gameID": 40127,
+              "name": "Explosion",
+              "type": "1024"
+            },
+            {
+              "gameID": 40227,
+              "name": "Hallowed Wings",
+              "type": "32"
+            },
+            {
+              "gameID": 40132,
+              "name": "Unmitigated Explosion",
+              "type": "1024"
+            },
+            {
+              "gameID": 16524,
+              "name": "Verthunder II",
+              "type": "1024"
+            },
+            {
+              "gameID": 7515,
+              "name": "Displacement",
+              "type": "128"
+            },
+            {
+              "gameID": 5,
+              "name": "Teleport",
+              "type": "1"
+            },
+            {
+              "gameID": 3634,
+              "name": "Dark Mind",
+              "type": "1"
+            },
+            {
+              "gameID": 1000746,
+              "name": "Dark Mind",
+              "type": "1"
+            },
+            {
+              "gameID": 1001084,
+              "name": "Rationing",
+              "type": "1"
+            },
+            {
+              "gameID": 16462,
+              "name": "Mythril Tempest",
+              "type": "1"
+            },
+            {
+              "gameID": 1001411,
+              "name": "Preferred World Bonus",
+              "type": "1"
+            },
+            {
+              "gameID": 1001050,
+              "name": "EXP Bonus",
+              "type": "1"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
