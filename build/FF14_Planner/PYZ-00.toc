@@ -1,0 +1,600 @@
+('C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+ 'monitor\\build\\FF14_Planner\\PYZ-00.pyz',
+ [('PyQt6',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\.venv\\Lib\\site-packages\\PyQt6\\__init__.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\.venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\.venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\csv.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socket.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.__main__',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('src',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 monitor\\src\\__init__.py',
+   'PYMODULE'),
+  ('src.controllers', '-', 'PYMODULE'),
+  ('src.controllers.fflogs_controller',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\controllers\\fflogs_controller.py',
+   'PYMODULE'),
+  ('src.controllers.planner_controller',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\controllers\\planner_controller.py',
+   'PYMODULE'),
+  ('src.controllers.radar_controller',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\controllers\\radar_controller.py',
+   'PYMODULE'),
+  ('src.core', '-', 'PYMODULE'),
+  ('src.core.history_reader',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\core\\history_reader.py',
+   'PYMODULE'),
+  ('src.core.parser',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 monitor\\src\\core\\parser.py',
+   'PYMODULE'),
+  ('src.models', '-', 'PYMODULE'),
+  ('src.models.events',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\models\\events.py',
+   'PYMODULE'),
+  ('src.models.skills_db',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\models\\skills_db.py',
+   'PYMODULE'),
+  ('src.ui', '-', 'PYMODULE'),
+  ('src.ui.death_recap',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\ui\\death_recap.py',
+   'PYMODULE'),
+  ('src.ui.fflogs_import_dialog',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\ui\\fflogs_import_dialog.py',
+   'PYMODULE'),
+  ('src.ui.history_panel',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\ui\\history_panel.py',
+   'PYMODULE'),
+  ('src.ui.main_window',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\ui\\main_window.py',
+   'PYMODULE'),
+  ('src.ui.planner_widget',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\ui\\planner_widget.py',
+   'PYMODULE'),
+  ('src.ui.radar_canvas',
+   'C:\\Users\\Jason Han\\PycharmProjects\\FF14 '
+   'monitor\\src\\ui\\radar_canvas.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Jason '
+   'Han\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipimport.py',
+   'PYMODULE')])
